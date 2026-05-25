@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "l55fLMIuA_ancqe3DygQ5"
+uri = "file://prefixes.json"
+type = "unspecified"
+title = "prefixes.json"
