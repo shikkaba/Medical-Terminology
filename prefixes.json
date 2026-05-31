@@ -1,55 +1,52 @@
 [
+	{ "id": "p_a", "form": "a-", "meaning": "absence of, without, no, not" },
+	{ "id": "p_ab", "form": "ab-", "meaning": "away from" },
+	{ "id": "p_acro", "form": "acro-", "meaning": "heights, extremes, extremities" },
+	{ "id": "p_ad", "form": "ad-", "meaning": "toward" },
+	{ "id": "p_an", "form": "an-", "meaning": "absence of, without, no, not" },
+	{ "id": "p_ana", "form": "ana-", "meaning": "up, apart, upward, backward" },
+	{ "id": "p_ante", "form": "ante-", "meaning": "before" },
+	{ "id": "p_apo", "form": "apo-", "meaning": "away from" },
+	{ "id": "p_bi", "form": "bi-", "meaning": "two, both" },
+	{ "id": "p_bin", "form": "bin-", "meaning": "two" },
+	{ "id": "p_brady", "form": "brady-", "meaning": "slow" },
+	{ "id": "p_crypt", "form": "crypt-", "meaning": "hidden" },
+	{ "id": "p_dia", "form": "dia-", "meaning": "through, complete" },
+	{ "id": "p_dis", "form": "dis-", "meaning": "apart" },
+	{ "id": "p_dys", "form": "dys-", "meaning": "painful, difficult, abnormal, labored" },
+	{ "id": "p_ecto", "form": "ecto-", "meaning": "outer" },
+	{ "id": "p_en", "form": "en-", "meaning": "in" },
+	{ "id": "p_endo", "form": "endo-", "meaning": "within, in" },
+	{ "id": "p_epi", "form": "epi-", "meaning": "upon, on, over" },
+	{ "id": "p_eu", "form": "eu-", "meaning": "good, normal" },
+	{ "id": "p_ex", "form": "ex-", "meaning": "outward" },
+	{ "id": "p_hemi", "form": "hemi-", "meaning": "half" },
+	{ "id": "p_hyper", "form": "hyper-", "meaning": "above, excessive" },
+	{ "id": "p_hypo", "form": "hypo-", "meaning": "deficient, below, under, incomplete" },
+	{ "id": "p_inter", "form": "inter-", "meaning": "between" },
+	{ "id": "p_intra", "form": "intra-", "meaning": "within, in" },
+	{ "id": "p_meta", "form": "meta-", "meaning": "change, beyond, after" },
+	{ "id": "p_micro", "form": "micro-", "meaning": "small" },
+	{ "id": "p_multi", "form": "multi-", "meaning": "many" },
+	{ "id": "p_neo", "form": "neo-", "meaning": "new" },
+	{ "id": "p_nulli", "form": "nulli-", "meaning": "none" },
+	{ "id": "p_oxy", "form": "oxy-", "meaning": "rapid, sharp, acid" },
+	{ "id": "p_pan", "form": "pan-", "meaning": "all, total" },
+	{ "id": "p_para", "form": "para-", "meaning": "beside, around, beyond, abnormal" },
+	{ "id": "p_per", "form": "per-", "meaning": "through" },
+	{ "id": "p_peri", "form": "peri-", "meaning": "surrounding, around" },
+	{ "id": "p_poly", "form": "poly-", "meaning": "many, much, excessive" },
+	{ "id": "p_post", "form": "post-", "meaning": "after" },
+	{ "id": "p_pre", "form": "pre-", "meaning": "before" },
+	{ "id": "p_pro", "form": "pro-", "meaning": "before" },
+	{ "id": "p_retro", "form": "retro-", "meaning": "backward, behind" },
+	{ "id": "p_sub", "form": "sub-", "meaning": "under, below" },
+	{ "id": "p_supra", "form": "supra-", "meaning": "above" },
+	{ "id": "p_sym", "form": "sym-", "meaning": "together, joined" },
+	{ "id": "p_syn", "form": "syn-", "meaning": "together, joined" },
 	{ "id": "p_tachy", "form": "tachy-", "meaning": "fast, rapid" },
-	{ "id": "p_hypo", "form": "hypo-", "meaning": "under, below, deficient" }
+	{ "id": "p_tetr", "form": "tetr-", "meaning": "four" },
+	{ "id": "p_trans", "form": "trans-", "meaning": "through, across, beyond" },
+	{ "id": "p_tri", "form": "tri-", "meaning": "three" },
+	{ "id": "p_uni", "form": "uni-", "meaning": "one" }
 ]
-
-"a-"absence of, without, no, not
-"ab-"away from
-"acro-"heights, extremes, extremities
-"ad-"toward
-"an-"absence of, without, no, not
-"ana-"up, apart, upward, backward
-"ante-"before
-"apo-"away from
-"bi-"two, both
-"bin-"two
-"brady-"slow
-"crypt-"hidden
-"dia-"through, complete
-"dis-"apart
-"dys-"painful, difficult, abnormal, labored
-"ecto-"outer
-"en-"in
-"endo-"within, in
-"epi-"upon, on, over
-"eu-"good, normal
-"ex-"outward
-"hemi-"half
-"hyper-"above, excessive
-"hypo-"deficient, below, under, incomplete
-"inter-"between
-"intra-"within, in
-"meta-"change, beyond, after
-"micro-"small
-"multi-"many
-"neo-"new
-"nulli-"none
-"oxy-"rapid, sharp, acid
-"pan-"all, total
-"para-"beside, around, beyond, abnormal
-"per-"through
-"peri-"surrounding, around
-"poly-"many, much, excessive
-"post-"after
-"pre-"before
-"pro-"before
-"retro-"backward, behind
-"sub-"under, below
-"supra-"above
-"sym-"together, joined
-"syn-"together, joined
-"tachy-"fast, rapid
-"tetr-"four
-"trans-"through, across, beyond
-"tri-"three
-"uni-"one
