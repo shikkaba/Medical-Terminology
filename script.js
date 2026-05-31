@@ -53,7 +53,7 @@ async function initApp() {
 
 			container.innerHTML = '';
 
-			// Show message if no terms match the filters
+			// Show message if no terms match the filters. Also update the heading.
 			if (filtered.length === 0) {
 				const message = currentLetter && currentLetter !== 'All'
 					? `No terms found for letter "${currentLetter}" in the selected system.`
@@ -62,9 +62,9 @@ async function initApp() {
 				heading.innerText = `No Terms Found`;
 				return;
 			} else {
-				if (!currentSystem || currentSystem === "" && currentLetter) {
+				if ((!currentSystem || currentSystem === "") && (currentLetter && currentLetter !== null)) {
 					heading.innerText = `${currentLetter} Terms`;
-				} else if (currentSystem && currentSystem !== "" && currentLetter && currentLetter !== null) {
+				} else if ((currentSystem && currentSystem !== "") && (currentLetter && currentLetter !== null)) {
 					heading.innerText = `${currentLetter} Terms in ${currentSystem}`;
 				} else {
 					heading.innerText = `All Terms`;
