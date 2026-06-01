@@ -22,7 +22,7 @@
 	{"id": "r_append", "form": "append/o", "meaning": "appendix"},
 	{"id": "r_appendic", "form": "appendic/o", "meaning": "appendix"},
 	{"id": "r_aponeur", "form": "aponeur/o", "meaning": "aponeurosis"},
-	{"id": "r_arteri", "form": "arteri/o", "meaning": "artery"},,
+	{"id": "r_arteri", "form": "arteri/o", "meaning": "artery"},
 	{"id": "r_ather", "form": "ather/o", "meaning": "yellowish, fatty plaque"},
 	{"id": "r_arthr", "form": "arthr/o", "meaning": "joint"},
 	{"id": "r_aut", "form": "aut/o", "meaning": "self"},
