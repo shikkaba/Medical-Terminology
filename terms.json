@@ -4746,7 +4746,7 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "r_electro",
+    "rootId": "r_electr",
     "rootId2": "r_cardio",
     "suffixId": "s_graph"
   },
@@ -4758,7 +4758,7 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "r_electro",
+    "rootId": "r_electr",
     "rootId2": "r_cardio",
     "suffixId": "s_graphy"
   },
@@ -4770,7 +4770,7 @@
       "Sensory System"
     ],
     "prefixId": "",
-    "rootId": "r_electro",
+    "rootId": "r_electr",
     "rootId2": "r_cochle",
     "suffixId": "s_graphy"
   },
@@ -4959,9 +4959,9 @@
     "system": [
       "Reproductive System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_cervic",
+    "suffixId": "s_al"
   },
   {
     "id": "t_endocrine_gland",
@@ -5092,9 +5092,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
+    "prefixId": "p_endo",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_scopic"
   },
   {
     "id": "t_endoscopy",
@@ -5104,9 +5104,9 @@
       "Digestive System",
       "Respiratory System"
     ],
-    "prefixId": "",
+    "prefixId": "p_endo",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_endothelium",
