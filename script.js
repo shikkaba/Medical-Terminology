@@ -82,7 +82,7 @@ async function initApp() {
 				const card = document.createElement('div');
 				card.className = 'card';
 				card.innerHTML = `
-					<div class="word">${term.word}</div>
+					<div class="word"><h3>${term.word}</h3></div>
 					<div class="definition">${term.definition}</div>
 					<div class="breakdown">
 						<div class="part"><span class="label">Prefix</span><strong>${prefix?.form || ''}</strong>: ${prefix?.meaning || 'N/A'}</div>
