@@ -158,7 +158,7 @@
     "word": "acronym",
     "definition": "Term derived from the first letters of a phrase and are spoken as if they are a word on their own.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -191,7 +191,7 @@
     "word": "acute inflammation",
     "definition": "Inflammation occurring for a limited time period; rapidly developing.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -279,7 +279,7 @@
     "word": "adhesion",
     "definition": "Band of scar tissue that binds anatomic surfaces to each other.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -290,7 +290,7 @@
     "word": "adipocytes",
     "definition": "Fat cells.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -301,7 +301,7 @@
     "word": "adipose",
     "definition": "Fat tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -413,9 +413,9 @@
     "system": [
       "Urinary System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_albumin",
+    "rootId": "r_ur",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_allergens",
@@ -642,7 +642,7 @@
     "word": "anatomical position",
     "definition": "That of the body standing upright, with the feet at shoulder width and parallel, toes forward. The upper limbs are held out to each side, and the palms of the hands face forward.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -873,7 +873,7 @@
     "word": "anterior",
     "definition": "Describes the front or direction toward the front of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -884,7 +884,7 @@
     "word": "anteriorly",
     "definition": "Pertaining to front.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1018,9 +1018,9 @@
     "system": [
       "Urinary System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "s_an",
+    "rootId": "r_ur",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_aortic_stenosis",
@@ -1093,7 +1093,7 @@
     "word": "apical",
     "definition": "Relating to or denoting an apex.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1391,7 +1391,7 @@
     "word": "aspirate",
     "definition": "Suction of fluid, inhalation of fluid.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "p_a",
     "rootId": "r_spir",
@@ -1435,7 +1435,7 @@
     "word": "asymptomatic",
     "definition": "Pertaining to without symptoms.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1479,7 +1479,7 @@
     "word": "atom",
     "definition": "Smallest unit of pure substances (elements); made up of subatomic particles such as the proton, electron, and neutron.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1645,7 +1645,7 @@
     "word": "avascular",
     "definition": "Without blood vessels.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1667,7 +1667,7 @@
     "word": "axilla",
     "definition": "The armpit.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1742,13 +1742,13 @@
   {
     "id": "t_azotemia",
     "word": "azotemia",
-    "definition": "Urea in the blood. B",
+    "definition": "Urea in the blood.",
     "system": [
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_azot",
+    "suffixId": "s_emia"
   },
   {
     "id": "t_b_cells",
@@ -1777,7 +1777,7 @@
     "word": "bacteria, bacterium",
     "definition": "Single-celled microorganism that reproduces by cell division and may cause infection by invading body tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1854,7 +1854,7 @@
     "word": "benign",
     "definition": "Noncancerous, harmless.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1876,7 +1876,7 @@
     "word": "bicarbonate",
     "definition": "A by-product of the body’s metabolism.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1887,7 +1887,7 @@
     "word": "bilateral",
     "definition": "Pertaining to both sides.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -1909,7 +1909,7 @@
     "word": "biopsy",
     "definition": "View of life (removal of living tissue to be viewed under a microscope).",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2243,7 +2243,7 @@
     "word": "cancer",
     "definition": "A process where abnormal cells in the body divide uncontrollably.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2287,7 +2287,7 @@
     "word": "carcinogenic",
     "definition": "Causing cancer.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2496,7 +2496,7 @@
     "word": "cauterize",
     "definition": "To burn tissues by various means with the intent to destroy damaged tissues, prevent infections or coagulate blood vessels.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2540,7 +2540,7 @@
     "word": "cell",
     "definition": "Smallest independently functioning unit of a living organism.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2584,7 +2584,7 @@
     "word": "centrifuged",
     "definition": "A centrifuge is a common piece of laboratory equipment used to spin test tubes at a high speed in order to separate components in a liquid by weight.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -2784,7 +2784,7 @@
     "word": "cessation",
     "definition": "Stop or stopping.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3015,7 +3015,7 @@
     "word": "chronic",
     "definition": "A condition the lasts over a long time with periods of exacerbation and periods of remission.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3026,7 +3026,7 @@
     "word": "chronic inflammation",
     "definition": "Inflammation occurring for long periods of time.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3302,7 +3302,7 @@
     "word": "combining form",
     "definition": "A word root with a combining form vowel.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3313,7 +3313,7 @@
     "word": "combining form vowel",
     "definition": "Vowel that is used to join word parts and to ease pronunciation. The most common combining form vowel is an “o” but sometimes it is an “i” or an “e”.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3346,7 +3346,7 @@
     "word": "computerized tomography",
     "definition": "A special 3-dimensional x-ray.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3379,7 +3379,7 @@
     "word": "congenital",
     "definition": "Present at birth.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3390,7 +3390,7 @@
     "word": "congenital anomaly",
     "definition": "Abnormality present at birth.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3412,7 +3412,7 @@
     "word": "connective tissue membrane",
     "definition": "Tissue membrane formed solely from connective tissue; encapsulates organs and lines movable joints.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3434,7 +3434,7 @@
     "word": "contusion",
     "definition": "Bruise.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3445,7 +3445,7 @@
     "word": "convex",
     "definition": "Curved outwards.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3522,7 +3522,7 @@
     "word": "cortical",
     "definition": "Pertaining to the cortex.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3746,7 +3746,7 @@
     "word": "cyst",
     "definition": "Closed sac containing fluid or semisolid material.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3771,8 +3771,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_cystocele",
@@ -3782,8 +3782,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_cele"
   },
   {
     "id": "t_cystogram",
@@ -3793,8 +3793,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_gram"
   },
   {
     "id": "t_cystography",
@@ -3804,8 +3804,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_cystolith",
@@ -3815,8 +3815,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_lith"
   },
   {
     "id": "t_cystolithotomy",
@@ -3826,8 +3826,9 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "rootId2": "r_lith",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_cystorrhaphy",
@@ -3837,8 +3838,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_cystoscope",
@@ -3848,8 +3849,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_scope"
   },
   {
     "id": "t_cystostomy",
@@ -3859,8 +3860,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_stomy"
   },
   {
     "id": "t_cystotomy",
@@ -3870,8 +3871,8 @@
       "Urinary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cyst",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_cytokine",
@@ -3891,9 +3892,9 @@
     "system": [
       "Sensory System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_dacro",
+    "rootId": "r_cyst",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_dacryocystorhinostomy",
@@ -3933,7 +3934,7 @@
     "word": "deep",
     "definition": "Describes a position farther from the surface of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -3953,7 +3954,7 @@
   {
     "id": "t_defensins",
     "word": "defensins",
-    "definition": "The lysozyme enzyme and proteins which have antibacterial properties.",
+    "definition": "The lysozyme enzyme iand proteins which have antibacterial properties.",
     "system": [
       "Immune System"
     ],
@@ -3966,7 +3967,7 @@
     "word": "dehydration",
     "definition": "Loss of fluids/water is greater than what is taken in.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4333,7 +4334,7 @@
     "word": "distal",
     "definition": "Describes a position in a limb that is farther from the point of attachment or the trunk of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4344,7 +4345,7 @@
     "word": "distended",
     "definition": "Stretch out.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4357,9 +4358,9 @@
     "system": [
       "Urinary System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_dia",
+    "rootId": "r_ur",
+    "suffixId": "s_esis"
   },
   {
     "id": "t_diverticulectomy",
@@ -4369,8 +4370,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_diverticul",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_diverticulitis",
@@ -4380,8 +4381,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_diverticul",
+    "suffixId": "s_um"
   },
   {
     "id": "t_diverticulosis",
@@ -4391,8 +4392,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_diverticul",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_dorsal_nerve_root",
@@ -4586,7 +4587,7 @@
     "word": "dystrophy",
     "definition": "Abnormal development.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4674,11 +4675,11 @@
     "word": "edema",
     "definition": "Puffy swollen tissue due to accumulation of fluid.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_edema"
   },
   {
     "id": "t_efferent_lymphatic_vessels",
@@ -4732,8 +4733,9 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_electr",
+    "rootId2": "r_cardio",
+    "suffixId": "s_gram"
   },
   {
     "id": "t_electrocardiograph",
@@ -4743,8 +4745,9 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_electro",
+    "rootId2": "r_cardio",
+    "suffixId": "s_graph"
   },
   {
     "id": "t_electrocardiography",
@@ -4754,8 +4757,9 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_electro",
+    "rootId2": "r_cardio",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_electrocochleography",
@@ -4765,8 +4769,9 @@
       "Sensory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_electro",
+    "rootId2": "r_cochle",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_electroencephalogram",
@@ -4777,7 +4782,7 @@
     ],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_gram"
   },
   {
     "id": "t_electroencephalograph",
@@ -4788,7 +4793,7 @@
     ],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_graph"
   },
   {
     "id": "t_electroencephalography",
@@ -4799,7 +4804,7 @@
     ],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_electromyography",
@@ -4810,15 +4815,16 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_electr",
+    "rootId2": "r_my",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_elements",
     "word": "elements",
     "definition": "Unique pure substances.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4840,7 +4846,7 @@
     "word": "embryogenic",
     "definition": "Producing an embryo.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -4851,7 +4857,7 @@
     "word": "embryoid",
     "definition": "Resembling an embryo.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5338,7 +5344,7 @@
     "word": "epithelial membrane",
     "definition": "Membrane composed of epithelium attached to a layer of connective tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5349,7 +5355,7 @@
     "word": "eponym",
     "definition": "Terms that are named after a place or person.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5526,7 +5532,7 @@
     "word": "excise, excision",
     "definition": "Remove by cutting out.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5537,7 +5543,7 @@
     "word": "excretion",
     "definition": "Waste is eliminated from an organism. In vertebrates this is primarily carried out by the lungs, kidneys and skin.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5570,7 +5576,7 @@
     "word": "exocytosis",
     "definition": "Active transport of molecules out of the cell.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5715,7 +5721,7 @@
     "word": "fissures",
     "definition": "A groove, natural division or elongated cleft, furrow or tear; naturally occurring in the brain, they are also known as sulcus/sulci.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5726,7 +5732,7 @@
     "word": "fistula",
     "definition": "Abnormal passageway between two organs or an internal organ and the body surface.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5794,7 +5800,7 @@
     "word": "frontal plane",
     "definition": "Plane that divides the body or an organ into an anterior (front) portion and a posterior (rear) portion.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5871,7 +5877,7 @@
     "word": "gangrene",
     "definition": "Death of tissue due to blood supply loss.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -5885,8 +5891,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gastr",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_gastric",
@@ -5896,8 +5902,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gastr",
+    "suffixId": "s_ic"
   },
   {
     "id": "t_gastritis",
@@ -5907,8 +5913,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gastr",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_gastroenteritis",
@@ -5918,8 +5924,9 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gastr",
+    "rootId2": "r_enter",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_gastroenterocolitis",
@@ -6691,7 +6698,7 @@
     "word": "homeostasis",
     "definition": "Biological process that results in stable equilibrium.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -6812,7 +6819,7 @@
     "word": "hydrostatic",
     "definition": "Relating to the equilibrium of liquids and the pressure exerted by liquid at rest.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7034,7 +7041,7 @@
     "word": "hypertrophy",
     "definition": "Excessive development.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7421,7 +7428,7 @@
     "word": "incise, incision",
     "definition": "Surgical cut into or wound produced by a sharp instrument.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7432,7 +7439,7 @@
     "word": "incision and drainage",
     "definition": "Surgical cut made to allow the free flow of fluids from a lesion, wound, or cavity.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7476,7 +7483,7 @@
     "word": "infection",
     "definition": "Invasion by disease-causing organisms.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7487,7 +7494,7 @@
     "word": "inferior",
     "definition": "Describes a position below or lower than another part of the body proper; near or toward the tail (in humans, the coccyx, or lowest part of the spinal column).",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7520,7 +7527,7 @@
     "word": "inflammation",
     "definition": "Basic innate immune response characterized by heat, redness, pain, and swelling.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7609,7 +7616,7 @@
     "word": "intercellular",
     "definition": "Between cells.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7654,7 +7661,7 @@
     "word": "interstitial",
     "definition": "Between cells of the tissues, often used interchangeably with ‘intercellular’.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7665,7 +7672,7 @@
     "word": "interstitial fluid",
     "definition": "Fluid that has leaked out of blood capillaries into the tissue spaces.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7676,7 +7683,7 @@
     "word": "interstitial space",
     "definition": "Spaces between individual cells in the tissues.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7709,7 +7716,7 @@
     "word": "intracellular",
     "definition": "Inside the cell membrane or within the cell.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7753,7 +7760,7 @@
     "word": "intramuscular",
     "definition": "Pertaining to within the muscle.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -7786,7 +7793,7 @@
     "word": "intravenous",
     "definition": "Pertaining to within the vein.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "p_intra",
     "rootId": "r_ven",
@@ -8164,7 +8171,7 @@
     "word": "lamina propria",
     "definition": "Connective tissue of the mucous membrane which helps support epithelial layer.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8341,7 +8348,7 @@
     "word": "laser surgery",
     "definition": "A surgical procedure using a powerful beam of light to cut or burn tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8352,7 +8359,7 @@
     "word": "lateral",
     "definition": "Describes the side or direction toward the side of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8385,7 +8392,7 @@
     "word": "lethargy",
     "definition": "Periods of weakness.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8454,7 +8461,7 @@
     "word": "leukoplakia",
     "definition": "White, thickened patches on mucus membrane tissue of the tongue or cheek.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8510,7 +8517,7 @@
     "word": "literally",
     "definition": "Follows the rules exactly.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8797,7 +8804,7 @@
     "word": "magnetic resonance imaging",
     "definition": "Radio frequency waves and a strong magnetic field provide clear and detailed pictures of internal organs and tissues.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -8852,7 +8859,7 @@
     "word": "malignant",
     "definition": "Cancerous.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9061,7 +9068,7 @@
     "word": "medial",
     "definition": "Describes the middle or direction toward the middle of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9259,7 +9266,7 @@
     "word": "mental",
     "definition": "Pertaining to the brain.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9270,7 +9277,7 @@
     "word": "metastasize",
     "definition": "Production of cells that can mobilize and establish tumors in other organs of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9358,7 +9365,7 @@
     "word": "mitochondria",
     "definition": "An organelle found in large numbers in most cells.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9380,7 +9387,7 @@
     "word": "modern-day language term",
     "definition": "Terms from the English language.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9391,7 +9398,7 @@
     "word": "molecule",
     "definition": "Chemical building block of all body structures.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9479,7 +9486,7 @@
     "word": "mucoid",
     "definition": "Resembling mucus.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9502,7 +9509,7 @@
     "word": "mucosal",
     "definition": "Mucous membranes line body cavities that open to the outside world, including the respiratory tract, gastrointestinal tract, urinary tract and reproductive tracts.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9513,7 +9520,7 @@
     "word": "mucous",
     "definition": "Pertaining to mucus.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9524,7 +9531,7 @@
     "word": "mucous membrane",
     "definition": "Composite of connective and epithelial tissues which lines the body cavities and hollow passageways that open to the external environment.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9535,7 +9542,7 @@
     "word": "mucus",
     "definition": "Slimy liquid secreted by mucous membranes.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -9851,7 +9858,7 @@
       ""
     ],
     "prefixId": "",
-    "rootId": "r_nat",
+    "rootId": "r_nato",
     "suffixId": "s_al"
   },
   {
@@ -9892,7 +9899,7 @@
     "word": "necrosis",
     "definition": "Condition of death.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "r_necr",
@@ -10390,7 +10397,7 @@
     "word": "nosocomial infection",
     "definition": "Infection acquired in hospital.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -10401,7 +10408,7 @@
     "word": "nucleus",
     "definition": "In the nervous system, a localized collection of neuron cell bodies that are functionally related; a “center” of neural function.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -10940,7 +10947,7 @@
     "word": "organ",
     "definition": "Anatomically distinct structure of the body composed of two or more tissue types.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -10951,7 +10958,7 @@
     "word": "organ system",
     "definition": "Group of organs that work together to perform major functions or meet the physiological needs of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -10962,7 +10969,7 @@
     "word": "organelle",
     "definition": "Tiny functioning units inside of a cell.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -10973,7 +10980,7 @@
     "word": "organism",
     "definition": "Living being that has a cellular structure and can independently perform all physiological functions necessary for life.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -11017,7 +11024,7 @@
     "word": "osmosis",
     "definition": "A process by which molecules of a solvent tend to pass through a membrane from a less concentrated solution into a more concentrated one.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -11414,7 +11421,7 @@
     "word": "pallor",
     "definition": "Paleness.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -11425,7 +11432,7 @@
     "word": "palpate",
     "definition": "Physical examination technique: The examiner feels for texture, size, consistency and location of body parts with hands.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -11889,7 +11896,7 @@
     "word": "permeability",
     "definition": "Membrane that causes it to allow liquids or gases to pass through it.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -11900,7 +11907,7 @@
     "word": "pH",
     "definition": "pH is a measure of how acidic or alkaline a substance is, as determined by the number of free hydrogen ions in the substance.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12409,7 +12416,7 @@
     "word": "polyp",
     "definition": "Small tumor like growth that extend from the surface of a mucous membrane.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12475,7 +12482,7 @@
     "word": "posterior",
     "definition": "Describes the back or direction toward the back of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12486,7 +12493,7 @@
     "word": "posteriorly",
     "definition": "Pertaining to behind.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12510,9 +12517,9 @@
     "system": [
       "Reproductive System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_post",
+    "rootId": "s_nato",
+    "suffixId": "s_al"
   },
   {
     "id": "t_postpartum",
@@ -12651,7 +12658,7 @@
     "word": "process",
     "definition": "In cells, an extension of a cell body; in the case of neurons, this includes the axon and dendrites.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12728,7 +12735,7 @@
     "word": "proliferate",
     "definition": "Reproduce rapidly.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12739,7 +12746,7 @@
     "word": "proliferation",
     "definition": "Rapid increase in numbers.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -12862,7 +12869,7 @@
     "word": "proximal",
     "definition": "Describes a position in a limb that is nearer to the point of attachment or the trunk of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13296,7 +13303,7 @@
     "word": "quadrate",
     "definition": "A square or rectangular shape.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13395,7 +13402,7 @@
     "word": "radiography",
     "definition": "Process of recording x-rays.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13406,7 +13413,7 @@
     "word": "radiologist",
     "definition": "Physician who specializes in the diagnosis and treatment of disease using medical imaging.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13417,7 +13424,7 @@
     "word": "radiology",
     "definition": "Study of the use of radiant energy in diagnosing disease.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13505,7 +13512,7 @@
     "word": "response",
     "definition": "Nervous system function that causes a target tissue (muscle or gland) to produce an event as a consequence to stimuli.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13516,7 +13523,7 @@
     "word": "reticulated",
     "definition": "Net like.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13726,7 +13733,7 @@
     "word": "robotic surgery",
     "definition": "Use of small surgical instruments attached to a computer and operated by the surgeon from a console several feet from the operating table.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -13759,7 +13766,7 @@
     "word": "sagittal plane",
     "definition": "Plane that divides the body or an organ vertically into left and right sides.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14057,7 +14064,7 @@
     "word": "serous",
     "definition": "You may recall that serous membranes throughout the body are folded back on themselves, which results in a double-layered membrane separated by serous fluid. The serous membrane surrounding the lungs is called pleura. The serous membrane surrounding the abdominopelvic organs is called peritoneum.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14068,7 +14075,7 @@
     "word": "serous membrane",
     "definition": "Epithelial membrane composed of mesodermally derived epithelium (mesothelium) that is supported by connective tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14079,7 +14086,7 @@
     "word": "serous space",
     "definition": "Thin, fluid-filled space between the parietal and visceral layers of the serous membrane.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14245,7 +14252,7 @@
     "word": "solutes",
     "definition": "The minor component in a solution.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14278,7 +14285,7 @@
     "word": "sonogram",
     "definition": "The record of sound.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14289,7 +14296,7 @@
     "word": "sonography",
     "definition": "Process of recording sound.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14421,7 +14428,7 @@
     "word": "sphincter",
     "definition": "A circular muscle constricting an orifice.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14586,7 +14593,7 @@
     "word": "staphylococcus",
     "definition": "Berry-shaped bacterium in grapelike clusters.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14597,7 +14604,7 @@
     "word": "Staphylococcus aureus",
     "definition": "Staphylococcus aureus is a bacterium that is commonly found in minor skin infections, as well as in the nose of some healthy people.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14708,7 +14715,7 @@
     "word": "stimulus",
     "definition": "An event in the external or internal environment that registers as activity in a sensory neuron.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14719,7 +14726,7 @@
     "word": "stoma",
     "definition": "Surgical opening between an organ and the surface of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14785,7 +14792,7 @@
     "word": "streptococcus",
     "definition": "Berry-shaped bacterium in twisted chains.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14796,7 +14803,7 @@
     "word": "stricture",
     "definition": "Abnormal narrowing.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14973,7 +14980,7 @@
     "word": "superficial",
     "definition": "Describes a position closer to the surface of the body.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -14995,7 +15002,7 @@
     "word": "superior",
     "definition": "Describes a position above or higher than another part of the body proper.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15105,7 +15112,7 @@
     "word": "syndrome",
     "definition": "Run together (signs and symptoms occur together characterizing of a specific disorder).",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15149,7 +15156,7 @@
     "word": "synthesis",
     "definition": "The production of chemical compounds by reaction from simpler materials.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15691,7 +15698,7 @@
     "word": "tissue",
     "definition": "Group of many similar cells that work together to perform a similar function.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15702,7 +15709,7 @@
     "word": "tissue membrane",
     "definition": "Thin layer or sheet of cells that covers the outside of the body, the organs, internal passageways that lead to the exterior of the body, and the lining of the movable joint cavities.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15735,7 +15742,7 @@
     "word": "tomography",
     "definition": "Process of recording slices.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -15959,7 +15966,7 @@
     "word": "transverse plane",
     "definition": "Plane that divides the body or organ horizontally into upper and lower portions.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -16058,7 +16065,7 @@
     "word": "unilateral",
     "definition": "Pertaining to one side.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -16642,7 +16649,7 @@
     "word": "virus",
     "definition": "Minute microorganism that may cause infection by invading body tissue.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -16653,18 +16660,18 @@
     "word": "visceral",
     "definition": "Pertaining to internal organs.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
-    "prefixId": "",
+    "prefixId": "p_vis",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_visceral_layer",
     "word": "visceral layer",
     "definition": "Layer of serous membrane which covers the organs (viscera).",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
@@ -16675,7 +16682,7 @@
     "word": "viscosity",
     "definition": "The thickness of fluids that affects their ability to flow.",
     "system": [
-      "General/Multiple Systems"
+      "General System"
     ],
     "prefixId": "",
     "rootId": "",
