@@ -25,13 +25,34 @@
             margin: 0;
         }
 
-        nav {
+        .filters {
             width: 100%;
+            max-width: 1000px;
             display: flex;
             flex-direction: row;
             align-items: center;
-            justify-content: center;
+            flex-wrap: wrap;
             position: relative;
+            margin: 0 auto 50px;
+        }
+
+        #letter-nav {
+            width: 100%;
+            flex: 0 1 600px;
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            position: relative;
+            flex-wrap: wrap;
+        }
+
+        #letter-nav .btn {
+            padding: 8px 14px;
+            background-color: var(--card-bg);
+            color: var(--primary);
+            border: 2px solid var(--primary);
+            border-radius: 6px;
+            font-size: 0.85rem;
         }
 
         h1 {
@@ -109,7 +130,7 @@
     <h1>Medical Terminology Breakdown</h1>
     <h2>All Terms</h2>
 
-    <nav>
+    <nav class="filters">
         <div id="letter-nav"></div>
         <div id="filter"></div>
     </nav>

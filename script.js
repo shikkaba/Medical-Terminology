@@ -106,11 +106,13 @@ async function initApp() {
 		const allBtn = document.createElement('button');
 		allBtn.textContent = 'All';
 		allBtn.addEventListener('click', () => renderTerms('All', '')); // Refresh letter and system
+		allBtn.classList.add('btn');
 		nav.appendChild(allBtn);
 
 		'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
 			const btn = document.createElement('button');
 			btn.textContent = letter;
+			btn.classList.add('btn');
 			btn.addEventListener('click', () => renderTerms(letter, currentSystem)); // Retain active system
 			nav.appendChild(btn);
 		});
