@@ -150,8 +150,8 @@
       "Endocrine System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_acr",
+    "suffixId": "s_megaly"
   },
   {
     "id": "t_acronym",
@@ -838,13 +838,13 @@
   {
     "id": "t_anoxia",
     "word": "anoxia",
-    "definition": "Condition of absence (deficiency) of oxygen.",
+    "definition": "Condition of/absence (deficiency) of oxygen.",
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_an",
+    "rootId": "r_ox",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_antagonistic",
@@ -1019,8 +1019,8 @@
       "Urinary System"
     ],
     "prefixId": "s_an",
-    "rootId": "r_ur",
-    "suffixId": "s_ia"
+    "rootId": "",
+    "suffixId": "s_uria"
   },
   {
     "id": "t_aortic_stenosis",
@@ -1106,9 +1106,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
+    "prefixId": "p_a",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_pnea"
   },
   {
     "id": "t_apocrine_sweat_gland",
@@ -1382,9 +1382,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_a",
+    "rootId": "r_sphyx",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_aspirate",
@@ -2400,8 +2400,8 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cardi",
+    "suffixId": "s_megaly"
   },
   {
     "id": "t_cardiomyopathy",
@@ -2411,8 +2411,9 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cardi",
+    "rootId2": "r_my",
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_carina",
@@ -2554,8 +2555,8 @@
       "Integumentary System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "s_cellul",
+    "suffixId": "r_itis"
   },
   {
     "id": "t_central_nervous_system",
@@ -5936,7 +5937,8 @@
       "Digestive System"
     ],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gastr",
+    "rootId2": "r_enter",
     "suffixId": ""
   },
   {
@@ -7142,9 +7144,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
+    "prefixId": "p_hypo",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_pnea"
   },
   {
     "id": "t_hypothalamus",
@@ -7177,9 +7179,9 @@
     "system": [
       ""
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hypo",
+    "rootId": "r_therm",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_hypothyroidism",
@@ -7188,9 +7190,9 @@
     "system": [
       "Endocrine System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hypo",
+    "rootId": "r_thy",
+    "suffixId": "s_ism"
   },
   {
     "id": "t_hypovolemic",
@@ -7199,9 +7201,9 @@
     "system": [
       "Cardiovascular System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hypo",
+    "rootId": "r_vol",
+    "suffixId": "s_emic"
   },
   {
     "id": "t_hypoxemia",
@@ -7210,9 +7212,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hypo",
+    "rootId": "r_ox",
+    "suffixId": "s_emia"
   },
   {
     "id": "t_hypoxia",
@@ -7221,9 +7223,9 @@
     "system": [
       "Respiratory System"
     ],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hypo",
+    "rootId": "r_ox",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_hysterectomy",
@@ -7233,8 +7235,8 @@
       "Reproductive System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_hyster",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_hysteropexy",
@@ -11016,8 +11018,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_orth",
+    "suffixId": "s_pnea"
   },
   {
     "id": "t_osmosis",
@@ -11049,8 +11051,9 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_oste",
+    "rootId2": "r_arthr",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_osteoblast",
@@ -11060,8 +11063,8 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_oste",
+    "suffixId": "s_blast"
   },
   {
     "id": "t_osteochondritis",
@@ -11071,7 +11074,7 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_oste",
     "suffixId": ""
   },
   {
@@ -11082,7 +11085,7 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_oste",
     "suffixId": ""
   },
   {
@@ -11093,7 +11096,7 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_oste",
     "suffixId": ""
   },
   {
@@ -11104,8 +11107,9 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_oste",
+    "rootId2": "r_malac",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_osteomyelitis",
@@ -11115,8 +11119,9 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_oste",
+    "rootId2": "r_myel",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_osteonecrosis",
@@ -11126,8 +11131,9 @@
       "Musculoskeletal System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_oste"
+    "rootId2": "r_necr",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_osteopenia",
@@ -14497,8 +14503,8 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_sphygm",
+    "suffixId": "s_manometer"
   },
   {
     "id": "t_spirometer",
@@ -14508,8 +14514,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spir",
+    "suffixId": "s_meter"
   },
   {
     "id": "t_spirometry",
@@ -14519,8 +14525,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spir",
+    "suffixId": "s_metry"
   },
   {
     "id": "t_spondylarthritis",
@@ -15236,8 +15242,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_tachy",
+    "suffixId": "s_pnea"
   },
   {
     "id": "t_tarsectomy",
@@ -15468,8 +15474,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thorac",
+    "suffixId": "s_scope"
   },
   {
     "id": "t_thoracoscopy",
@@ -15479,8 +15485,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thorac",
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_thoracotomy",
@@ -15490,8 +15496,8 @@
       "Respiratory System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thorac",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_tract",
@@ -15567,8 +15573,8 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thromb",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_thrombus",
@@ -15578,8 +15584,8 @@
       "Cardiovascular System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thromb",
+    "suffixId": "s_us"
   },
   {
     "id": "t_thymectomy",
@@ -15590,8 +15596,8 @@
       "Immune System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thym",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_thymocytes",
@@ -15612,8 +15618,8 @@
       "Lymphatic System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thym",
+    "suffixId": "s_oma"
   },
   {
     "id": "t_thymus",
@@ -15635,8 +15641,8 @@
       "Endocrine System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thyroid",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_thyroiditis",
@@ -15646,8 +15652,8 @@
       "Endocrine System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thyroid",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_thyroidotomy",
@@ -15657,8 +15663,8 @@
       "Endocrine System"
     ],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thyroid",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_thyroparathyroidectomy",

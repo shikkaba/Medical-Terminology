@@ -63,6 +63,7 @@
 	{ "id": "s_lysis", "form": "-lysis", "meaning": "loosening, dissolution, separating" },
 	{ "id": "s_malacia", "form": "-malacia", "meaning": "softening" },
 	{ "id": "s_mania", "form": "-mania", "meaning": "condition of madness, frenzy, excessive excitement" },
+	{ "id": "s_manometer", "form": "-manometer", "meaning": "instrument used to measure pressure"},
 	{ "id": "s_megaly", "form": "-megaly", "meaning": "enlarged, enlargement" },
 	{ "id": "s_meter", "form": "-meter", "meaning": "instrument used to measure" },
 	{ "id": "s_metry", "form": "-metry", "meaning": "process of measuring" },
