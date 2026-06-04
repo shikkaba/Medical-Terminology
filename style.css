@@ -1,108 +1,195 @@
-body{
-  /*cursor: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/sushi_1f363.png"), auto;*/
-  height: 100vh;
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  background: radial-gradient(black 15%, transparent 16%) 0 0,
-    radial-gradient(black 15%, transparent 16%) 8px 8px,
-    radial-gradient(rgba(255, 255, 255, 0.1) 15%, transparent 20%) 0 1px,
-    radial-gradient(rgba(255, 0, 0, 0.1) 15%, transparent 20%) 8px 9px;
-    background-color: #282828;
-    background-size: 16px 16px;
+:root {
+  --bg: #f4f7f6;
+  --card-bg: #ffffff;
+  --text: #333333;
+  --primary: #007791;
+  --accent: #e0f2f1;
+  --colour1: var(--primary);
+  --colour2: #00f508;
+  --colour3: #00a305;
+  --colour4: #ffde7a;
+  --colour5: #ff3c00;
+  --colour6: #9C27B0;
+  --colour7: #8ea4af;
+  --colour8: #ffccdd;
+  --colour9: #3cb98f;
+  --colour10: #ffa114;
+  --colour11: #229fdd;
+  --colour12: #4506b1;
+  --colour13: #811348;
 }
-::selection{
-  background: #ffcf1b;
-  color: white;
-}
-h1, h2{
-  font-family: 'Amatic SC', cursive;
-  font-weight: 400;
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
   margin: 0;
 }
-h1{
-  font-size: 50px;
-  line-height: 50px;
-  text-align: center;
-  margin-bottom: 15.654321px;
-}
-h2{
-  font-size: 30px;
-  padding-bottom: 10.654321px;
-}
-form section:not(:last-of-type){
-  border: 1px solid #ccc;
-  padding: 10px 15px;
-}
-a {
-  position: relative;
-  display: inline-block;
-  transition: all .321s;
-  text-decoration: none;
-	font-weight: 600;
-  color: #000;
-}
 
-a::after { /* Border bottom - hidden while not hovered */
-  position: absolute;
-  bottom: .3em;
-  left: 0;
-  content: '';
+.filters {
   width: 100%;
-  height: 1px;
-  background-color: #000;
-  opacity: 0;
-  transition: all .321s;
-}
-
-a:hover, a:hover::after {
-  color: #000;
-}
-
-a:hover::after { /* Show bottom border */
-  bottom: 0;
-  opacity: 1;
-}
-aside.menu{
-  padding: 15px 15px 25px;
-  margin-bottom: 25px;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
   position: relative;
-  top: 0;
-  background: #ffcf1b;
-  background: linear-gradient(#ff881b, #ffcf1b 75%);
-
+  margin: 0 auto 50px;
 }
 
+#letter-nav {
+  width: 100%;
+  gap: 4px;
+  flex: 0 1 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  position: relative;
+  flex-wrap: wrap;
+}
 
+#letter-nav .btn {
+  transition: all 0.2s;
+  padding: 5px 10px;
+  background-color: var(--card-bg);
+  color: var(--primary);
+  border: 2px solid var(--primary);
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
 
+#letter-nav .btn:hover {
+  background-color: var(--primary);
+  color: var(--card-bg);
+}
 
+#filter {
+  flex: 1 1 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+h1 {
+  color: var(--primary);
+  margin-bottom: 2rem;
+}
 
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 1000px;
+}
 
+.card {
+  background: var(--card-bg);
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.5s;
+  border: 2px solid #e0e0e0;
+}
 
+.card.cardi {
+  border: 2px solid var(--colour1);
+}
 
+.card.diges {
+  border: 2px solid var(--colour2);
+}
 
+.card.endoc {
+  border: 2px solid var(--colour3);
+}
 
+.card.gener {
+  border: 2px solid var(--colour4);
+}
 
+.card.immun {
+  border: 2px solid var(--colour5);
+}
 
+.card.integ {
+  border: 2px solid var(--colour6);
+}
 
+.card.lymph {
+  border: 2px solid var(--colour7);
+}
 
+.card.muscu {
+  border: 2px solid var(--colour8);
+}
 
+.card.nervo {
+  border: 2px solid var(--colour9);
+}
 
+.card.repro {
+  border: 2px solid var(--colour10);
+}
 
+.card.respi {
+  border: 2px solid var(--colour11);
+}
 
+.card.senso {
+  border: 2px solid var(--colour12);
+}
 
+.card.urina {
+  border: 2px solid var(--colour13);
+}
 
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
 
+.word h3 {
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: var(--primary);
+  margin: 0 0 0.5rem 0;
+}
 
+.definition {
+  font-style: italic;
+  margin-bottom: 1rem;
+  color: #666;
+}
 
+.breakdown {
+  display: none;
+  border-top: 2px dashed var(--accent);
+  padding-top: 1rem;
+  margin-top: 1rem;
+}
 
+.breakdown.active {
+  display: block;
+}
 
+.part {
+  margin: 0.4rem 0;
+  font-size: 0.9rem;
+}
 
-
-
-@media only screen and (min-width: 600px){
-  aside.menu{
-    position: sticky!important;
-  }
+.label {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: var(--accent);
+  color: var(--primary);
+  margin-right: 0.5rem;
 }
