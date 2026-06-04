@@ -79,9 +79,8 @@ async function initApp() {
                                 const suffix = suffixMap.get(term.suffixId);
 
                                 // Create UI card element
-                                const systemClass = term.system?.[0]?.slice(0, 5).toLowerCase() || '';
                                 const card = document.createElement('div');
-                                card.className = `card ${systemClass}`;
+                                card.className = 'card';
                                 card.innerHTML = `
                                         <div class="word"><h3>${term.word}</h3></div>
                                         <div class="definition">${term.definition}</div>
