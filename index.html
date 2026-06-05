@@ -1,26 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Medical Terminology Study Guide</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medical Terminology Study Guide</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <body>
+        <h1>Medical Terminology Breakdown</h1>
+        <h2>All Terms</h2>
 
-<body>
+        <nav class="filters">
+            <div id="letter-nav"></div>
+            <div id="filter"></div>
+        </nav>
 
-    <h1>Medical Terminology Breakdown</h1>
-    <h2>All Terms</h2>
+        <div class="container" id="card-container">Loading flashcards...</div>
 
-    <nav class="filters">
-        <div id="letter-nav"></div>
-        <div id="filter"></div>
-    </nav>
-
-    <div class="container" id="card-container">Loading flashcards...</div>
-
-    <script src="script.js" defer></script>
-</body>
-
+        <script src="js/data.js"></script>
+        <script src="js/database.js"></script>
+        <!-- <script src="js/quiz.js"></script> -->
+        <script src="js/script.js"></script>
+    </body>
 </html>
