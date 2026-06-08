@@ -26,8 +26,18 @@ const AppData = (() => {
 		const prefixMap = new Map(prefixes.map((p) => [p.id, p]));
 		const suffixMap = new Map(suffixes.map((s) => [s.id, s]));
 		const rootMap = new Map(roots.map((r) => [r.id, r]));
+		const termMap = new Map(terms.map((t) => [t.id, t]));
 
-		cache = { prefixes, suffixes, roots, terms, prefixMap, suffixMap, rootMap };
+		cache = {
+			prefixes,
+			suffixes,
+			roots,
+			terms,
+			prefixMap,
+			suffixMap,
+			rootMap,
+			termMap,
+		};
 		return cache;
 	}
 

@@ -5,7 +5,8 @@ async function main() {
 
 		// Initialize features, passing shared data down
 		initDatabase(data);
-		// initQuiz(data);  ← uncomment when ready
+		// initFlashcards(data);
+		// initQuiz(data);
 	} catch (error) {
 		console.error("Failed to initialize app:", error);
 	}
