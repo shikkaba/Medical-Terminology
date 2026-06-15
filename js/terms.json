@@ -3799,8 +3799,8 @@
     "definition": "A very serious condition in pregnancy with hypertension; patients are at high risk of coma, convulsions, and even death.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_eclamps",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_ectopic_pregnancy",
@@ -4118,27 +4118,27 @@
     "word": "endometriosis",
     "definition": "Abnormal condition of the endometrium.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_metri",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_endometritis",
     "word": "endometritis",
     "definition": "Inflammation of the endometrium.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_metri",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_endometrium",
     "word": "endometrium",
     "definition": "The innermost layer containing a connective tissue lining covered by epithelial tissue that lines the lumen. Provides the site of implantation for a fertilized egg. Sheds during menstruation if no egg is fertilized.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_metri",
+    "suffixId": "s_um"
   },
   {
     "id": "t_endophthalmitis",
@@ -4154,9 +4154,9 @@
     "word": "endoscope",
     "definition": "Instrument used to view within (hollow organs).",
     "system": ["Digestive System", "Respiratory System"],
-    "prefixId": "",
+    "prefixId": "r_endo",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_scope"
   },
   {
     "id": "t_endoscopic",
@@ -4272,8 +4272,8 @@
     "definition": "Excision of the epididymis.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_epididym",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_epididymis",
@@ -4281,8 +4281,8 @@
     "definition": "(plural = epididymides) Coiled tubular structure in which sperm start to mature and are stored until ejaculation.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_epididym",
+    "suffixId": "s_is"
   },
   {
     "id": "t_epididymitis",
@@ -4290,8 +4290,8 @@
     "definition": "Inflammation/swelling of the epididymis.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_epididym",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_epiglottis",
@@ -4344,8 +4344,8 @@
     "definition": "A procedure where an incision is made to widen the vaginal opening to prevent ripping or tearing of the perineum during delivery.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_episi",
+    "suffixId": "s_otomy"
   },
   {
     "id": "t_epistaxis",
@@ -7274,8 +7274,8 @@
     "definition": "Pain in the breast.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mast",
+    "suffixId": "s_algia"
   },
   {
     "id": "t_mastectomy",
@@ -7283,8 +7283,8 @@
     "definition": "Excision of breast(s) and or breast tissue.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mast",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_mastitis",
@@ -7292,8 +7292,8 @@
     "definition": "Inflammation of the breast.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mast",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_mastoidectomy",
@@ -7301,8 +7301,8 @@
     "definition": "Excision of the mastoid bone.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mastoid",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_mastoiditis",
@@ -7310,8 +7310,8 @@
     "definition": "Inflammation of the mastoid bone.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mastoid",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_mastoidotomy",
@@ -7319,8 +7319,8 @@
     "definition": "Incision into the mastoid bone.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mastoid",
+    "suffixId": "s_otomy"
   },
   {
     "id": "t_mastopexy",
@@ -7328,8 +7328,8 @@
     "definition": "Surgical fixation of the breast.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_mast",
+    "suffixId": "s_pexy"
   },
   {
     "id": "t_maxillectomy",
@@ -9521,8 +9521,8 @@
     "definition": "Pertaining to pelvis, pelvic bone.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pelvi",
+    "suffixId": "s_ic"
   },
   {
     "id": "t_pelvic_inflammatory_disease",
@@ -9548,8 +9548,9 @@
     "definition": "Pertaining to the pelvis and sacrum.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pelvi",
+    "rootId2": "r_sacr",
+    "suffixId": "s_al"
   },
   {
     "id": "t_pelviscopic",
@@ -9557,8 +9558,8 @@
     "definition": "Pertaining to visual examination of the pelvic cavity.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pelvi",
+    "suffixId": "s_scopic"
   },
   {
     "id": "t_pelviscopy",
@@ -9566,8 +9567,8 @@
     "definition": "Visual examination of the pelvic cavity.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pelvi",
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_penis",
@@ -13589,9 +13590,9 @@
     "word": "visceral",
     "definition": "Pertaining to internal organs.",
     "system": ["General System"],
-    "prefixId": "p_vis",
+    "prefixId": "",
     "rootId": "",
-    "suffixId": "s_al"
+    "suffixId": ""
   },
   {
     "id": "t_visceral_layer",
@@ -13644,8 +13645,8 @@
     "definition": "External genitals of the female including the mons pubis, labia majora, labia minora, clitoris, urinary meatus, and vaginal opening.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_vulv",
+    "suffixId": "s_a"
   },
   {
     "id": "t_vulvectomy",
@@ -13653,8 +13654,8 @@
     "definition": "Excision of the vulva.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_vulv",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_vulvovaginal",
@@ -13707,8 +13708,9 @@
     "definition": "Dry skin.",
     "system": ["Integumentary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_xer",
+    "rootId2": "r_derm",
+    "suffixId": "s_a"
   },
   {
     "id": "t_xerophthalmia",
@@ -13725,8 +13727,8 @@
     "definition": "Abnormal condition of dryness.",
     "system": ["Integumentary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_xer",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_zygote",

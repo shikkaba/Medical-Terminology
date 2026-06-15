@@ -1,13 +1,21 @@
 [
 	{ "id": "s_a", "form": "-a", "meaning": "no meaning, noun ending" },
-	{ "id": "s_ac", "form": "-ac", "meaning": "pertaining to; one affected with" },
+	{
+		"id": "s_ac",
+		"form": "-ac",
+		"meaning": "pertaining to; one affected with"
+	},
 	{ "id": "s_ad", "form": "-ad", "meaning": "toward" },
 	{ "id": "s_ade", "form": "-ade", "meaning": "process of" },
 	{ "id": "s_al", "form": "-al", "meaning": "pertaining to" },
 	{ "id": "s_algesia", "form": "-algesia", "meaning": "sensitivity to pain" },
 	{ "id": "s_algia", "form": "-algia", "meaning": "pain" },
 	{ "id": "s_amnios", "form": "-amnios", "meaning": "amnion, amniotic fluid" },
-	{ "id": "s_apheresis", "form": "-apheresis", "meaning": "withdrawal or removal" },
+	{
+		"id": "s_apheresis",
+		"form": "-apheresis",
+		"meaning": "withdrawal or removal"
+	},
 	{ "id": "s_ar", "form": "-ar", "meaning": "pertaining to" },
 	{ "id": "s_arche", "form": "-arche", "meaning": "beginning, first" },
 	{ "id": "s_ary", "form": "-ary", "meaning": "pertaining to" },
@@ -16,7 +24,11 @@
 	{ "id": "s_atresia", "form": "-atresia", "meaning": "occlusion, closure" },
 	{ "id": "s_blast", "form": "-blast", "meaning": "immature cell, embryonic" },
 	{ "id": "s_cele", "form": "-cele", "meaning": "hernia, protrusion" },
-	{ "id": "s_centesis", "form": "-centesis", "meaning": "surgical puncture to aspirate fluid" },
+	{
+		"id": "s_centesis",
+		"form": "-centesis",
+		"meaning": "surgical puncture to aspirate fluid"
+	},
 	{ "id": "s_clasia", "form": "-clasia", "meaning": "break" },
 	{ "id": "s_clasis", "form": "-clasis", "meaning": "break" },
 	{ "id": "s_clast", "form": "-clast", "meaning": "break" },
@@ -24,29 +36,65 @@
 	{ "id": "s_coccus", "form": "-coccus", "meaning": "berry-shaped" },
 	{ "id": "s_cyesis", "form": "-cyesis", "meaning": "pregnancy" },
 	{ "id": "s_cyte", "form": "-cyte", "meaning": "cell" },
-	{ "id": "s_cytosis", "form": "-cytosis", "meaning": "abnormal condition of cells, increase in cells" },
+	{
+		"id": "s_cytosis",
+		"form": "-cytosis",
+		"meaning": "abnormal condition of cells, increase in cells"
+	},
 	{ "id": "s_desis", "form": "-desis", "meaning": "surgical fixation, fusion" },
 	{ "id": "s_drome", "form": "-drome", "meaning": "run, running together" },
 	{ "id": "s_dynia", "form": "-dynia", "meaning": "pain" },
 	{ "id": "s_e", "form": "-e", "meaning": "no meaning, noun ending" },
 	{ "id": "s_eal", "form": "-eal", "meaning": "pertaining to" },
-	{ "id": "s_ectasis", "form": "-ectasis", "meaning": "stretching out, dilation, expansion" },
-	{ "id": "s_ectomy", "form": "-ectomy", "meaning": "excision, surgical removal" },
+	{
+		"id": "s_ectasis",
+		"form": "-ectasis",
+		"meaning": "stretching out, dilation, expansion"
+	},
+	{
+		"id": "s_ectomy",
+		"form": "-ectomy",
+		"meaning": "excision, surgical removal"
+	},
 	{ "id": "s_edema", "form": "-edema", "meaning": "swelling" },
 	{ "id": "s_emia", "form": "-emia", "meaning": "condition of blood" },
 	{ "id": "s_esis", "form": "-esis", "meaning": "condition" },
 	{ "id": "s_ferous", "form": "-ferous", "meaning": "pertaining to" },
-	{ "id": "s_gen", "form": "-gen", "meaning": "substance or agent that produces" },
-	{ "id": "s_genesis", "form": "-genesis", "meaning": "beginning, development, or production" },
-	{ "id": "s_genic", "form": "-genic", "meaning": "producing, originating, causing" },
+	{
+		"id": "s_gen",
+		"form": "-gen",
+		"meaning": "substance or agent that produces"
+	},
+	{
+		"id": "s_genesis",
+		"form": "-genesis",
+		"meaning": "beginning, development, or production"
+	},
+	{
+		"id": "s_genic",
+		"form": "-genic",
+		"meaning": "producing, originating, causing"
+	},
 	{ "id": "s_gia", "form": "-gia", "meaning": "pain" },
 	{ "id": "s_globin", "form": "-globin", "meaning": "protein" },
 	{ "id": "s_gram", "form": "-gram", "meaning": "record, radiographic image" },
 	{ "id": "s_graph", "form": "-graph", "meaning": "instrument used to record" },
-	{ "id": "s_graphy", "form": "-graphy", "meaning": "process of recording, radiographic imaging" },
-	{ "id": "s_ia", "form": "-ia", "meaning": "condition of, diseased state, abnormal state" },
+	{
+		"id": "s_graphy",
+		"form": "-graphy",
+		"meaning": "process of recording, radiographic imaging"
+	},
+	{
+		"id": "s_ia",
+		"form": "-ia",
+		"meaning": "condition of, diseased state, abnormal state"
+	},
 	{ "id": "s_iasis", "form": "-iasis", "meaning": "condition" },
-	{ "id": "s_iatrist", "form": "-iatrist", "meaning": "specialist, physician who treats" },
+	{
+		"id": "s_iatrist",
+		"form": "-iatrist",
+		"meaning": "specialist, physician who treats"
+	},
 	{ "id": "s_iatry", "form": "-iatry", "meaning": "specialty, treatment" },
 	{ "id": "s_ic", "form": "-ic", "meaning": "pertaining to" },
 	{ "id": "s_ictal", "form": "-ictal", "meaning": "seizure, attack" },
@@ -58,59 +106,139 @@
 	{ "id": "s_itis", "form": "-itis", "meaning": "inflammation" },
 	{ "id": "s_lepsy", "form": "-lepsy", "meaning": "seizure" },
 	{ "id": "s_lith", "form": "-lith", "meaning": "stone" },
-	{ "id": "s_logist", "form": "-logist", "meaning": "specialist, physician who studies and treats" },
+	{
+		"id": "s_logist",
+		"form": "-logist",
+		"meaning": "specialist, physician who studies and treats"
+	},
 	{ "id": "s_logy", "form": "-logy", "meaning": "study of, specialty" },
-	{ "id": "s_lysis", "form": "-lysis", "meaning": "loosening, dissolution, separating" },
+	{
+		"id": "s_lysis",
+		"form": "-lysis",
+		"meaning": "loosening, dissolution, separating"
+	},
 	{ "id": "s_malacia", "form": "-malacia", "meaning": "softening" },
-	{ "id": "s_mania", "form": "-mania", "meaning": "condition of madness, frenzy, excessive excitement" },
-	{ "id": "s_manometer", "form": "-manometer", "meaning": "instrument used to measure pressure"},
+	{
+		"id": "s_mania",
+		"form": "-mania",
+		"meaning": "condition of madness, frenzy, excessive excitement"
+	},
+	{
+		"id": "s_manometer",
+		"form": "-manometer",
+		"meaning": "instrument used to measure pressure"
+	},
 	{ "id": "s_megaly", "form": "-megaly", "meaning": "enlarged, enlargement" },
-	{ "id": "s_meter", "form": "-meter", "meaning": "instrument used to measure" },
+	{
+		"id": "s_meter",
+		"form": "-meter",
+		"meaning": "instrument used to measure"
+	},
 	{ "id": "s_metry", "form": "-metry", "meaning": "process of measuring" },
 	{ "id": "s_oid", "form": "-oid", "meaning": "resembling" },
 	{ "id": "s_oma", "form": "-oma", "meaning": "tumor, swelling" },
 	{ "id": "s_opia", "form": "-opia", "meaning": "vision condition" },
 	{ "id": "s_opsy", "form": "-opsy", "meaning": "view of, process of viewing" },
 	{ "id": "s_orexia", "form": "-orexia", "meaning": "appetite" },
-	{ "id": "s_orrhea", "form": "-orrhea", "meaning": "flow, excessive discharge" },
+	{
+		"id": "s_orrhea",
+		"form": "-orrhea",
+		"meaning": "flow, excessive discharge"
+	},
 	{ "id": "s_osis", "form": "-osis", "meaning": "abnormal condition" },
 	{ "id": "s_ous", "form": "-ous", "meaning": "pertaining to" },
 	{ "id": "s_paresis", "form": "-paresis", "meaning": "slight paralysis" },
 	{ "id": "s_parous", "form": "-parous", "meaning": "having given birth" },
 	{ "id": "s_pathy", "form": "-pathy", "meaning": "disease" },
-	{ "id": "s_penia", "form": "-penia", "meaning": "abnormal reduction, deficiency" },
+	{
+		"id": "s_penia",
+		"form": "-penia",
+		"meaning": "abnormal reduction, deficiency"
+	},
 	{ "id": "s_pepsia", "form": "-pepsia", "meaning": "digestion" },
-	{ "id": "s_pexy", "form": "-pexy", "meaning": "surgical fixation, suspension" },
+	{
+		"id": "s_pexy",
+		"form": "-pexy",
+		"meaning": "surgical fixation, suspension"
+	},
 	{ "id": "s_phage", "form": "-phage", "meaning": "eat, swallow" },
 	{ "id": "s_phagia", "form": "-phagia", "meaning": "eating, swallowing" },
 	{ "id": "s_phasia", "form": "-phasia", "meaning": "speech" },
 	{ "id": "s_phobia", "form": "-phobia", "meaning": "abnormal fear, aversion" },
 	{ "id": "s_physis", "form": "-physis", "meaning": "growth" },
-	{ "id": "s_plasia", "form": "-plasia", "meaning": "development, growth, condition of formation" },
-	{ "id": "s_plasm", "form": "-plasm", "meaning": "growth, substance, formation" },
+	{
+		"id": "s_plasia",
+		"form": "-plasia",
+		"meaning": "development, growth, condition of formation"
+	},
+	{
+		"id": "s_plasm",
+		"form": "-plasm",
+		"meaning": "growth, substance, formation"
+	},
 	{ "id": "s_plasty", "form": "-plasty", "meaning": "surgical repair" },
 	{ "id": "s_plegia", "form": "-plegia", "meaning": "paralysis" },
 	{ "id": "s_pnea", "form": "-pnea", "meaning": "breathing" },
 	{ "id": "s_poiesis", "form": "-poiesis", "meaning": "formation, production" },
 	{ "id": "s_praxia", "form": "-praxia", "meaning": "to perform, action" },
-	{ "id": "s_ptosis", "form": "-ptosis", "meaning": "drooping, sagging, prolapse" },
+	{
+		"id": "s_ptosis",
+		"form": "-ptosis",
+		"meaning": "drooping, sagging, prolapse"
+	},
 	{ "id": "s_ptysis", "form": "-ptysis", "meaning": "spitting, coughing" },
-	{ "id": "s_rrhagia", "form": "-rrhagia", "meaning": "rapid flow of blood, excessive bleeding" },
+	{
+		"id": "s_rrhagia",
+		"form": "-rrhagia",
+		"meaning": "rapid flow of blood, excessive bleeding"
+	},
 	{ "id": "s_rrhaphy", "form": "-rrhaphy", "meaning": "suturing, repairing" },
 	{ "id": "s_rrhea", "form": "-rrhea", "meaning": "flow, discharge" },
 	{ "id": "s_rrhexis", "form": "-rrhexis", "meaning": "rupture" },
 	{ "id": "s_salpinx", "form": "-salpinx", "meaning": "tube, uterine tube" },
-	{ "id": "s_sarcoma", "form": "-sarcoma", "meaning": "malignant tumor of connective tissue" },
+	{
+		"id": "s_sarcoma",
+		"form": "-sarcoma",
+		"meaning": "malignant tumor of connective tissue"
+	},
 	{ "id": "s_schisis", "form": "-schisis", "meaning": "split, fissure" },
 	{ "id": "s_sclerosis", "form": "-sclerosis", "meaning": "hardening" },
-	{ "id": "s_scope", "form": "-scope", "meaning": "instrument used for visual examination" },
-	{ "id": "s_scopic", "form": "-scopic", "meaning": "pertaining to visual examination" },
-	{ "id": "s_scopy", "form": "-scopy", "meaning": "process of viewing, visual examination" },
+	{
+		"id": "s_scope",
+		"form": "-scope",
+		"meaning": "instrument used for visual examination"
+	},
+	{
+		"id": "s_scopic",
+		"form": "-scopic",
+		"meaning": "pertaining to visual examination"
+	},
+	{
+		"id": "s_scopy",
+		"form": "-scopy",
+		"meaning": "process of viewing, visual examination"
+	},
 	{ "id": "s_sis", "form": "-sis", "meaning": "state of, condition" },
-	{ "id": "s_spasm", "form": "-spasm", "meaning": "sudden involuntary muscle contraction" },
-	{ "id": "s_stasis", "form": "-stasis", "meaning": "stop, controlling, standing still" },
-	{ "id": "s_stenosis", "form": "-stenosis", "meaning": "narrowing, constriction" },
-	{ "id": "s_stomy", "form": "-stomy", "meaning": "creation of an artificial opening" },
+	{
+		"id": "s_spasm",
+		"form": "-spasm",
+		"meaning": "sudden involuntary muscle contraction"
+	},
+	{
+		"id": "s_stasis",
+		"form": "-stasis",
+		"meaning": "stop, controlling, standing still"
+	},
+	{
+		"id": "s_stenosis",
+		"form": "-stenosis",
+		"meaning": "narrowing, constriction"
+	},
+	{
+		"id": "s_stomy",
+		"form": "-stomy",
+		"meaning": "creation of an artificial opening"
+	},
 	{ "id": "s_thorax", "form": "-thorax", "meaning": "chest, chest cavity" },
 	{ "id": "s_thymia", "form": "-thymia", "meaning": "condition of the mind" },
 	{ "id": "s_tion", "form": "-tion", "meaning": "process of" },
@@ -118,7 +246,11 @@
 	{ "id": "s_tome", "form": "-tome", "meaning": "instrument used to cut" },
 	{ "id": "s_tomy", "form": "-tomy", "meaning": "incision, cut into" },
 	{ "id": "s_tripsy", "form": "-tripsy", "meaning": "surgical crushing" },
-	{ "id": "s_trophy", "form": "-trophy", "meaning": "nourishment, development" },
+	{
+		"id": "s_trophy",
+		"form": "-trophy",
+		"meaning": "nourishment, development"
+	},
 	{ "id": "s_um", "form": "-um", "meaning": "no meaning, noun ending" },
 	{ "id": "s_uria", "form": "-uria", "meaning": "urine, urination" },
 	{ "id": "s_us", "form": "-us", "meaning": "no meaning, noun ending" },
