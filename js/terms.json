@@ -2654,7 +2654,7 @@
     "system": ["Reproductive System"],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_cleisis"
   },
   {
     "id": "t_colpoperineorrhaphy",
@@ -2789,7 +2789,7 @@
     "system": ["Sensory System"],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_connective_tissue_membrane",
@@ -3539,7 +3539,7 @@
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_distal",
@@ -3656,7 +3656,7 @@
     "system": ["Nervous System"],
     "prefixId": "",
     "rootId": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_dysentery",
@@ -10918,8 +10918,8 @@
     "definition": "Inflammation of the nerve roots.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_radicul",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_radiculopathy",
@@ -10927,8 +10927,8 @@
     "definition": "Disease of the nerve roots.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_radicul",
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_radiography",
@@ -10936,8 +10936,8 @@
     "definition": "Process of recording x-rays.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_radi",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_radiologist",
@@ -10945,8 +10945,8 @@
     "definition": "Physician who specializes in the diagnosis and treatment of disease using medical imaging.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_radi",
+    "suffixId": "s_ologist"
   },
   {
     "id": "t_radiology",
@@ -10954,8 +10954,8 @@
     "definition": "Study of the use of radiant energy in diagnosing disease.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_radi",
+    "suffixId": "s_logy"
   },
   {
     "id": "t_rectal",
@@ -10963,8 +10963,8 @@
     "definition": "Pertaining to the rectum.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rect",
+    "suffixId": "s_al"
   },
   {
     "id": "t_rectocele",
@@ -10972,8 +10972,8 @@
     "definition": "Protrusion of the rectum.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rect",
+    "suffixId": "s_cele"
   },
   {
     "id": "t_reflux",
@@ -10990,8 +10990,8 @@
     "definition": "Radiographic record of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_ren",
+    "suffixId": "s_gram"
   },
   {
     "id": "t_respiratory_zone",
@@ -11008,8 +11008,8 @@
     "definition": "Specialist who studies and treats disease and disorders related to breathing.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_respir",
+    "suffixId": "s_ologist"
   },
   {
     "id": "t_respirology",
@@ -11017,8 +11017,8 @@
     "definition": "The study of breathing disorders and disease.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_respir",
+    "suffixId": "s_logy"
   },
   {
     "id": "t_response",
@@ -11044,8 +11044,8 @@
     "definition": "Pertaining to the retina.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_retin",
+    "suffixId": "s_al"
   },
   {
     "id": "t_retinoblastoma",
@@ -11062,8 +11062,8 @@
     "definition": "Disease of the retina.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_retin",
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_retinoscopy",
@@ -11071,8 +11071,8 @@
     "definition": "Process of viewing the retina.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_retin",
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_retrograde_urogram",
@@ -11117,7 +11117,8 @@
     "system": ["Respiratory System"],
     "prefixId": "",
     "rootId": "r_rhin",
-    "suffixId": ""
+    "rootId2": "r_myc",
+    "suffixId": "s_osis"
   },
   {
     "id": "t_rhinoplasty",
@@ -11125,8 +11126,8 @@
     "definition": "Surgical repair of the nose.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rhin",
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_rhinorrhagia",
@@ -11242,8 +11243,8 @@
     "definition": "Excision of the uterine/fallopian tube.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_salping",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_salpingitis",
@@ -11251,8 +11252,8 @@
     "definition": "Inflammation of a fallopian/uterine tube.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_salping",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_salpingo_oophorectomy",
@@ -11269,8 +11270,8 @@
     "definition": "Creation of an artificial opening in the uterine tube.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_salping",
+    "suffixId": "s_stomy"
   },
   {
     "id": "t_sarcopenia",
@@ -11314,8 +11315,9 @@
     "definition": "Inflammation of the sclera and cornea.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_scler",
+    "rootId2": "r_kerat",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_scleromalacia",
@@ -11323,8 +11325,9 @@
     "definition": "Softening of the sclera.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_scler",
+    "rootId2": "r_malac",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_sclerotomy",
@@ -11332,8 +11335,8 @@
     "definition": "Incision into the sclera.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_scler",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_scoliosis",
@@ -11449,8 +11452,8 @@
     "definition": "Surgical repair of the septum.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_sept",
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_septotomy",
@@ -11458,8 +11461,8 @@
     "definition": "Incision into the (nasal) septum.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_sept",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_seroconversion",
@@ -11584,8 +11587,8 @@
     "definition": "Inflammation of a sinus.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_sinus",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_skeletal_muscle",
@@ -11656,8 +11659,8 @@
     "definition": "The record of sound.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_son",
+    "suffixId": "s_gram"
   },
   {
     "id": "t_sonography",
@@ -11665,8 +11668,8 @@
     "definition": "Process of recording sound.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_son",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_sonohysteropgraphy",
@@ -11674,8 +11677,9 @@
     "definition": "Process of recording the uterus by use of sound.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_son",
+    "rootId2": "r_hyster",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_speculum",
@@ -11755,8 +11759,8 @@
     "definition": "Dissolution (destruction) of sperm.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spermat",
+    "suffixId": "s_lysis"
   },
   {
     "id": "t_spermiogenesis",
@@ -11854,8 +11858,9 @@
     "definition": "Inflammation of the vertebra and joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spondyl",
+    "rootId2": "r_arthr",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_spondylosis",
@@ -11926,8 +11931,9 @@
     "definition": "Inflammation of the liver associated with fat.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_steat",
+    "rootId2": "r_hepat",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_steatorrhea",
@@ -12025,8 +12031,8 @@
     "definition": "Inflammation of the mouth.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_stomat",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_stomatogastric",
@@ -12457,8 +12463,8 @@
     "definition": "Inflammation of the tendon.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_tendin",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_tenomyoplasty",
@@ -12466,8 +12472,9 @@
     "definition": "Surgical repair of the tendon and muscle.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_ten",
+    "rootId2": "r_my",
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_tenorrhaphy",
@@ -12475,8 +12482,8 @@
     "definition": "Suturing of a tendon.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_ten",
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_tenosynovitis",
@@ -12484,8 +12491,9 @@
     "definition": "Inflammation of the tendon and synovial membrane.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_ten",
+    "rootId2": "r_synov",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_teratogen",
@@ -12493,8 +12501,8 @@
     "definition": "Agent producing malformations (in a developing embryo) such as chemicals, viruses and environmental factors.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_terat",
+    "suffixId": "s_gen"
   },
   {
     "id": "t_teratogenic",
@@ -12502,8 +12510,8 @@
     "definition": "Producing malformations.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_terat",
+    "suffixId": "s_genic"
   },
   {
     "id": "t_teratology",
@@ -12511,8 +12519,8 @@
     "definition": "The study of malformations.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_terat",
+    "suffixId": "s_logy"
   },
   {
     "id": "t_testes",
@@ -12691,8 +12699,9 @@
     "definition": "Inflammation of a vein associated with a (blood) clot.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_thromb",
+    "rootId2": "r_phleb",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_thrombosis",
@@ -12916,8 +12925,8 @@
     "definition": "Inflammation of the trachea.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_trache",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_trachelectomy",
@@ -12925,8 +12934,8 @@
     "definition": "Excision of the cervix.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_trachel",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_trachelorrhaphy",
@@ -12934,8 +12943,8 @@
     "definition": "Suturing of the cervix.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "trachel",
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_tracheoplasty",
