@@ -4778,8 +4778,8 @@
     "definition": "Inflammation of the ganglion.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gangli",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_ganglion",
@@ -4853,7 +4853,7 @@
     "prefixId": "",
     "rootId": "r_gastr",
     "rootId2": "r_enter",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_gastroenterology",
@@ -4969,8 +4969,8 @@
     "definition": "Inflammation of the gums.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gingiv",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_glans_penis",
@@ -5032,8 +5032,8 @@
     "definition": "Inflammation of the tongue.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_gloss",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_glossopharyngeal",
@@ -5383,8 +5383,8 @@
     "definition": "Inflammation of the liver.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_hepat",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_hepatoma",
@@ -5427,9 +5427,9 @@
     "word": "hidradenitis",
     "definition": "Inflammation of a sweat gland.",
     "system": ["Integumentary System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_hidr",
+    "rootId": "r_aden",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_high_density_lipoprotein",
