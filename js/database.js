@@ -67,6 +67,7 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 			const prefix = prefixMap.get(term.prefixId);
 			const root = rootMap.get(term.rootId);
 			const root2 = rootMap.get(term.rootId2);
+			const root3 = rootMap.get(term.rootId3);
 			const suffix = suffixMap.get(term.suffixId);
 
 			// Create UI card element
@@ -80,6 +81,7 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 					<div class="part"><span class="label">Prefix</span><strong>${prefix?.form || ""}</strong>: ${prefix?.meaning || "N/A"}</div>
 					<div class="part"><span class="label">Root</span><strong>${root?.form || ""}</strong>: ${root?.meaning || "N/A"}</div>
 					${root2 /* if root2 exists */ ? `<div class="part"><span class="label">Root 2</span><strong>${root2?.form}</strong>: ${root2?.meaning || "N/A"}</div>` : ""}
+					${root3 /* if root3 exists */ ? `<div class="part"><span class="label">Root 3</span><strong>${root3?.form}</strong>: ${root3?.meaning || "N/A"}</div>` : ""}
 					<div class="part"><span class="label">Suffix</span><strong>${suffix?.form || ""}</strong>: ${suffix?.meaning || "N/A"}</div>
 					<div class="part"><span class="label">System</span><strong>${term.system || ""} </strong></div>
 				</div>

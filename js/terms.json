@@ -446,8 +446,8 @@
     "definition": "Inflammation of the amnion.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_amnion",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_amniorrhea",
@@ -832,7 +832,7 @@
     "word": "anuria",
     "definition": "Absence of urine.",
     "system": ["Urinary System"],
-    "prefixId": "s_an",
+    "prefixId": "p_an",
     "rootId": "",
     "suffixId": "s_uria"
   },
@@ -941,8 +941,8 @@
     "definition": "Inflammation of the appendix.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_appendic",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_appendicular_skeleton",
@@ -1031,8 +1031,8 @@
     "definition": "Inflammation of the joints.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_arthrocentesis",
@@ -1040,8 +1040,8 @@
     "definition": "Surgical puncture to aspirate fluid from a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_centesis"
   },
   {
     "id": "t_arthroclasia",
@@ -1049,8 +1049,8 @@
     "definition": "Surgical breaking of a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_clasia"
   },
   {
     "id": "t_arthrodesis",
@@ -1058,8 +1058,8 @@
     "definition": "Surgical fixation of a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_desis"
   },
   {
     "id": "t_arthrography",
@@ -1067,8 +1067,8 @@
     "definition": "Process of recording a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_arthroplasty",
@@ -1076,8 +1076,8 @@
     "definition": "Surgical repair of a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_arthroscopy",
@@ -1085,8 +1085,8 @@
     "definition": "Process of viewing a joint.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_arthr",
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_articulations",
@@ -1463,8 +1463,8 @@
     "definition": "Inflammation of the glans penis.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_balan",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_balanoplasty",
@@ -1472,8 +1472,8 @@
     "definition": "Surgical repair of the glans penis.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_balan",
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_balanorrhea",
@@ -1481,8 +1481,8 @@
     "definition": "Discharge from the glans penis.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_balan",
+    "suffixId": "s_rrhea"
   },
   {
     "id": "t_barrier_defenses",
@@ -1580,8 +1580,8 @@
     "definition": "Inflammation of eyelids.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_blephar",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_blepharoplasty",
@@ -2168,8 +2168,8 @@
     "definition": "Inflammation of the cerebellum.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cerebell",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_cerebellum",
@@ -2177,8 +2177,8 @@
     "definition": "Region of the adult brain connected primarily to the pons that developed from the metencephalon (along with the pons) and is largely responsible for comparing information from the cerebrum with sensory feedback from the periphery through the spinal cord.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cerebell",
+    "suffixId": "s_um"
   },
   {
     "id": "t_cerebral",
@@ -2186,8 +2186,8 @@
     "definition": "Pertaining to the brain.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cerebr",
+    "suffixId": "s_al"
   },
   {
     "id": "t_cerebral_angiography",
@@ -2258,8 +2258,8 @@
     "definition": "Inflammation of the cervix.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_cervic",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_cervix",
@@ -2435,8 +2435,9 @@
     "definition": "Inflammation of the chorion and amnion.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_chori",
+    "rootId2": "r_amnion",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_choriocarcinoma",
@@ -2788,7 +2789,7 @@
     "definition": "Inflammation of the conjunctiva.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_conjunctiv",
     "suffixId": "s_itis"
   },
   {
@@ -3538,7 +3539,7 @@
     "definition": "Inflammation of the intervertebral disk.",
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_disk",
     "suffixId": "s_itis"
   },
   {
@@ -3655,7 +3656,7 @@
     "definition": "Inflammation of the dura mater.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_dur",
     "suffixId": "s_itis"
   },
   {
@@ -4002,8 +4003,8 @@
     "definition": "Inflammation of the brain.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_encephal",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_encephalomalacia",
@@ -4011,8 +4012,8 @@
     "definition": "Softening of the brain.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_encephal",
+    "suffixId": "s_malacia"
   },
   {
     "id": "t_encephalomyeloradiculitis",
@@ -4037,18 +4038,18 @@
     "word": "endarterectomy",
     "definition": "Excision within the artery.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "s_end",
+    "rootId": "r_arter",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_endocarditis",
     "word": "endocarditis",
     "definition": "Inflammation of the inner (lining) of the heart.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_card",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_endocervical",
@@ -4083,8 +4084,8 @@
     "definition": "Specialist who studies and treats diseases of the endocrine system.",
     "system": ["Endocrine System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_endocrin",
+    "suffixId": "s_ologist"
   },
   {
     "id": "t_endocrinology",
@@ -4092,8 +4093,8 @@
     "definition": "The study of the endocrine glands and hormones.",
     "system": ["Endocrine System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_endocrin",
+    "suffixId": "s_ology"
   },
   {
     "id": "t_endocrinopathy",
@@ -4101,8 +4102,8 @@
     "definition": "Disease of the endocrine system.",
     "system": ["Endocrine System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_endocrin",
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_endometrial_cancer",
@@ -4145,9 +4146,9 @@
     "word": "endophthalmitis",
     "definition": "Inflammation within the eye.",
     "system": ["Sensory System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_endo",
+    "rootId": "r_ophthalm",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_endoscope",
@@ -4452,8 +4453,8 @@
     "definition": "Inflammation of the esophagus.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_esophag",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_esophagogastroduodenoscopy",
@@ -9837,8 +9838,8 @@
     "definition": "Inflammation of a vein.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_phleb",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_phlebotomist",
@@ -9945,8 +9946,8 @@
     "definition": "Serous membrane which surrounds the lungs in the leural cavity and reduces friction between the lungs and the body wall.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pleur",
+    "suffixId": "s_a"
   },
   {
     "id": "t_pleural_effusion",
@@ -9963,8 +9964,8 @@
     "definition": "Pertaining to the pleura.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pleur",
+    "suffixId": "s_itic"
   },
   {
     "id": "t_pleuritis",
@@ -9972,8 +9973,8 @@
     "definition": "Inflammation of the pleura.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pleur",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_pneumatocele",
@@ -9999,8 +10000,8 @@
     "definition": "Excision of the lung.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pneumon",
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_pneumonia",
@@ -10008,8 +10009,8 @@
     "definition": "Diseased state of lung.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pneumon",
+    "suffixId": "s_ia"
   },
   {
     "id": "t_pneumonitis",
@@ -10017,8 +10018,8 @@
     "definition": "Inflammation of the lung.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pneumon",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_pneumothorax",
@@ -10034,18 +10035,18 @@
     "word": "poliomyelitis",
     "definition": "Inflammation of gray matter of the spinal cord.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_poly",
+    "rootId": "r_myel",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_polyarteritis",
     "word": "polyarteritis",
     "definition": "Inflammation of many (sites in the) arteries.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_poly",
+    "rootId": "r_arter",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_polycystic_ovary_syndrome",
@@ -10097,27 +10098,27 @@
     "word": "polymenorrhea",
     "definition": "Excessive bleeding during one’s period.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_poly",
+    "rootId": "r_men",
+    "suffixId": "s_rrhea"
   },
   {
     "id": "t_polymyositis",
     "word": "polymyositis",
     "definition": "Inflammation of many muscles.",
     "system": ["Musculoskeletal System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_poly",
+    "rootId": "r_myos",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_polyneuritis",
     "word": "polyneuritis",
     "definition": "Inflammation of many nerves.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "prefixId": "p_poly",
+    "rootId": "r_neur",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_polyneuropathy",
@@ -10422,8 +10423,9 @@
     "definition": "Any of a group of compounds with varying hormone-like effects.",
     "system": ["Endocrine System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "rootId2": "r_gland",
+    "suffixId": "s_ins"
   },
   {
     "id": "t_prostate_cancer",
@@ -10449,8 +10451,8 @@
     "definition": "Inflammation of the prostate gland.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_prostatocystitis",
@@ -10458,8 +10460,9 @@
     "definition": "Inflammation of the prostate gland and urinary bladder.",
     "system": ["Urinary System", "Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "rootId2": "r_cyst",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_prostatolith",
@@ -10467,8 +10470,8 @@
     "definition": "Stone(s) in the prostate gland.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "suffixId": "s_lith"
   },
   {
     "id": "t_prostatolithotomy",
@@ -10476,8 +10479,9 @@
     "definition": "Incision into the prostate gland to remove stones.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "rootId2": "r_lith",
+    "suffixId": "s_otomy"
   },
   {
     "id": "t_prostatorrhea",
@@ -10485,8 +10489,8 @@
     "definition": "Discharge from the prostate gland.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "suffixId": "s_rrhea"
   },
   {
     "id": "t_prostatovesiculitis",
@@ -10494,8 +10498,9 @@
     "definition": "Inflammation of the prostate gland and seminal vesicles.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_prostat",
+    "rootId2": "r_vesicul",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_proximal",
@@ -10764,8 +10769,8 @@
     "definition": "Inflammation of the renal pelvis.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pyel",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_pyelolithotomy",
@@ -10773,8 +10778,9 @@
     "definition": "Incision into the renal pelvis.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pyel",
+    "rootId2": "r_lith",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_pyelonephritis",
@@ -10782,8 +10788,9 @@
     "definition": "Inflammation of the renal pelvis and the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_pyel",
+    "rootId2": "r_nephr",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_pyeloplasty",
@@ -11135,8 +11142,8 @@
     "definition": "Rapid flow of blood from the nose.",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rhin",
+    "suffixId": "s_rrhagia"
   },
   {
     "id": "t_rhinorrhea",
@@ -11144,8 +11151,8 @@
     "definition": "Excessive flow or discharge from the nasal cavity (runny nose).",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rhin",
+    "suffixId": "s_rrhea"
   },
   {
     "id": "t_rhizomeningomyelitis",
@@ -11153,8 +11160,10 @@
     "definition": "Inflammation of the nerve root, meninges and spinal cord.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rhiz",
+    "rootId2": "r_mening",
+    "rootId3": "r_myel",
+    "suffixId": "s_itis"
   },
   {
     "id": "t_rhizotomy",
@@ -11162,8 +11171,8 @@
     "definition": "Incision into a nerve root.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_rhiz",
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_rhytidectomy",
