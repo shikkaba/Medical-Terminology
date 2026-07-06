@@ -11732,8 +11732,8 @@
     "definition": "Distention of the epididymis containing an abnormal cyst-like collection of fluid and sperm cells.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spermat",
+    "suffixId": "s_cele"
   },
   {
     "id": "t_spermatocyte",
@@ -11741,8 +11741,8 @@
     "definition": "Cell that results from the division of spermatogonium and undergoes meiosis I and meiosis II to form spermatids.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spermat",
+    "suffixId": "s_cyte"
   },
   {
     "id": "t_spermatogenesis",
@@ -11750,8 +11750,8 @@
     "definition": "Formation of new sperm, occurs in the seminiferous tubules of the testes.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "suffixId": ""
+    "rootId": "r_spermat",
+    "suffixId": "s_genesis"
   },
   {
     "id": "t_spermatogonia",
