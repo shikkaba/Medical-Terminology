@@ -74,17 +74,29 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 			const card = document.createElement("div");
 			const systemClass = term.system?.[0]?.slice(0, 5).toLowerCase() || "";
 			card.className = `card ${systemClass}`;
+
+			// Check if root form exists and is not an empty string
+			const hasRoot =
+				root &&
+				((typeof root === "object" && root.form && root.form.trim() !== "") ||
+					(typeof root === "string" && root.trim() !== ""));
+
 			card.innerHTML = `
-				<div class="word"><h3>${term.word}</h3></div>
-				<div class="definition">${term.definition}</div>
-				<div class="breakdown">
-					<div class="part"><span class="label">Prefix</span><strong>${prefix?.form || ""}</strong>: ${prefix?.meaning || "N/A"}</div>
-					<div class="part"><span class="label">Root</span><strong>${root?.form || ""}</strong>: ${root?.meaning || "N/A"}</div>
-					${root2 /* if root2 exists */ ? `<div class="part"><span class="label">Root 2</span><strong>${root2?.form}</strong>: ${root2?.meaning || "N/A"}</div>` : ""}
-					${root3 /* if root3 exists */ ? `<div class="part"><span class="label">Root 3</span><strong>${root3?.form}</strong>: ${root3?.meaning || "N/A"}</div>` : ""}
-					<div class="part"><span class="label">Suffix</span><strong>${suffix?.form || ""}</strong>: ${suffix?.meaning || "N/A"}</div>
-					<div class="part"><span class="label">System</span><strong>${term.system || ""} </strong></div>
-				</div>
+					<div class="word"><h3>${term.word}</h3></div>
+					<div class="definition">${term.definition}</div>
+					<div class="breakdown">
+							${hasRoot
+									? `
+									<div class="part"><span class="label">Prefix</span><strong>${prefix?.form || ""}</strong>: ${prefix?.meaning || "N/A"}</div>
+									<div class="part"><span class="label">Root</span><strong>${root.form}</strong>: ${root.meaning || "N/A"}</div>
+									${root2 ? `<div class="part"><span class="label">Root 2</span><strong>${root2.form}</strong>: ${root2.meaning || "N/A"}</div>` : ""}
+									${root3 ? `<div class="part"><span class="label">Root 3</span><strong>${root3.form}</strong>: ${root3.meaning || "N/A"}</div>` : ""}
+									<div class="part"><span class="label">Suffix</span><strong>${suffix?.form || ""}</strong>: ${suffix?.meaning || "N/A"}</div>
+							`
+									: ""
+							}
+							<div class="part"><span class="label">System</span><strong>${term.system || ""}</strong></div>
+					</div>
 			`;
 
 			// Toggle breakdown section on click

@@ -87,10 +87,10 @@
     "definition": "Condition of absence (less than normal level) of carbon dioxide (in the blood).",
     "system": ["Respiratory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_acapn",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ia"
   },
   {
     "id": "t_acne",
@@ -255,15 +255,15 @@
     "suffixId": ""
   },
   {
-    "id": "t_adipocytes",
-    "word": "adipocytes",
-    "definition": "Fat cells.",
+    "id": "t_adipocyte",
+    "word": "adipocyte",
+    "definition": "Fat cell",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_adip",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_cyte"
   },
   {
     "id": "t_adipose",
@@ -615,11 +615,11 @@
     "word": "anemia",
     "definition": "Reduction in number of erythrocytes.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
+    "prefixId": "p_an",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_emia"
   },
   {
     "id": "t_anesthesia",
@@ -984,10 +984,10 @@
     "definition": "Radiographic image of the aorta.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_aort",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_gram"
   },
   {
     "id": "t_apgar_score",
@@ -1120,8 +1120,8 @@
     "suffixId": ""
   },
   {
-    "id": "t_arrhythmias",
-    "word": "arrhythmias",
+    "id": "t_arrhythmia",
+    "word": "arrhythmia",
     "definition": "Absence of a regular heart rhythm.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
@@ -1157,11 +1157,11 @@
     "word": "arteriogram",
     "definition": "Radiographic image of an artery.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
+    "prefixId": "r_arteri",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_gram"
   },
   {
     "id": "t_arterioles",
@@ -1180,10 +1180,10 @@
     "definition": "Hardening of arteries.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_arteri",
+    "rootId2": "r_scler",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_arthralgia",
@@ -1191,10 +1191,10 @@
     "definition": "Joint pain.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_arthr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_algia"
   },
   {
     "id": "t_arthritis",
@@ -1906,22 +1906,22 @@
     "word": "bradycardia",
     "definition": "Pertaining to a slow heart (rate).",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_brady",
+    "rootId": "r_cardi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_a"
   },
   {
     "id": "t_bradykinesia",
     "word": "bradykinesia",
     "definition": "Condition of slow movement.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_brady",
+    "rootId": "r_kines",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ia"
   },
   {
     "id": "t_brain",
@@ -2192,10 +2192,10 @@
     "definition": "Pertaining to the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cardi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ac"
   },
   {
     "id": "t_cardiac_muscle",
@@ -2269,10 +2269,10 @@
     "definition": "A physician who studies and treats diseases of the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cardi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ologist"
   },
   {
     "id": "t_cardiology",
@@ -2280,10 +2280,10 @@
     "definition": "Study of the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cardi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logy"
   },
   {
     "id": "t_cardiomegaly",
@@ -4417,10 +4417,10 @@
     "definition": "A record (using) sound of the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_ech",
+    "rootId2": "r_cardi",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_gram"
   },
   {
     "id": "t_echocardiography",
@@ -4428,10 +4428,10 @@
     "definition": "Process of using sound to record the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_ech",
+    "rootId2": "r_cardi",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_eclampsia",
@@ -11073,11 +11073,11 @@
     "word": "pancytopenia",
     "definition": "Abnormal reduction of (all) blood cells.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_pan",
+    "rootId": "r_cyto",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_penia"
   },
   {
     "id": "t_panhypopituitarism",
@@ -11655,7 +11655,7 @@
     "definition": "Incision into a vein.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_phleb",
     "rootId2": "",
     "rootId3": "",
     "suffixId": ""
