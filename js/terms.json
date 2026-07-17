@@ -671,10 +671,10 @@
     "definition": "Radiographic imaging of blood vessels.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_angioma",
@@ -682,10 +682,10 @@
     "definition": "Tumor composed of blood vessels.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_angioplasty",
@@ -693,10 +693,10 @@
     "definition": "A balloon-tip catheter is fed through a blood vessel up to the site of the narrowing, the balloon is inflated to re- open the artery. A stent is sometimes placed at the site to reinforce the arterial wall and to prevent re-occlusion.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_angioscope",
@@ -704,10 +704,10 @@
     "definition": "Instrument used for visual examination of blood vessels.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_scope"
   },
   {
     "id": "t_angioscopy",
@@ -715,10 +715,10 @@
     "definition": "Visual examination of blood vessels.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_angiostenosis",
@@ -726,10 +726,10 @@
     "definition": "Narrowing of a blood vessel.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_centesis"
   },
   {
     "id": "t_anisocoria",
@@ -748,10 +748,10 @@
     "definition": "Abnormal condition of stiffness.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ankyl",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_anoplasty",
@@ -809,11 +809,11 @@
     "word": "antepartum",
     "definition": "Before childbirth referencing the mother.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_ante",
+    "rootId": "r_part",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_um"
   },
   {
     "id": "t_anterior",
@@ -4587,8 +4587,8 @@
     "definition": "Process of recording the electrical activity of the brain.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_electr",
+    "rootId2": "r_encephal",
     "rootId3": "",
     "suffixId": "s_graphy"
   },
@@ -9570,10 +9570,10 @@
     "definition": "Excision of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_nephritis",
@@ -9581,10 +9581,10 @@
     "definition": "Inflammation of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_nephrography",
@@ -9592,10 +9592,10 @@
     "definition": "Radiographic imaging of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_nephrolithiasis",
@@ -9636,10 +9636,10 @@
     "definition": "Specialist who studies and treats disease and disorders of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ologist"
   },
   {
     "id": "t_nephrology",
@@ -9647,10 +9647,10 @@
     "definition": "Study of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ology"
   },
   {
     "id": "t_nephrolysis",
@@ -9658,10 +9658,10 @@
     "definition": "Separating the kidney (from body structures).",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_lysis"
   },
   {
     "id": "t_nephroma",
@@ -9669,10 +9669,10 @@
     "definition": "Tumor of kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_nephromegaly",
@@ -9680,10 +9680,10 @@
     "definition": "Enlarged kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_megaly"
   },
   {
     "id": "t_nephropexy",
@@ -9691,10 +9691,10 @@
     "definition": "Surgical fixation of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_pexy"
   },
   {
     "id": "t_nephroscopy",
