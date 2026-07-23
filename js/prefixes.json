@@ -25,6 +25,7 @@
 		"meaning": "painful, difficult, abnormal, labored"
 	},
 	{ "id": "p_ecto", "form": "ecto-", "meaning": "outer" },
+	{ "id": "p_embol", "form": "embol-", "meaning": "plug, wedge" },
 	{ "id": "p_en", "form": "en-", "meaning": "in" },
 	{ "id": "p_endo", "form": "endo-", "meaning": "within, in" },
 	{ "id": "p_epi", "form": "epi-", "meaning": "upon, on, over" },

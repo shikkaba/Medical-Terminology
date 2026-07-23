@@ -1411,10 +1411,10 @@
     "definition": "The area of the heart where the atria and ventricles meet.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_atri",
+    "rootId2": "r_ventricul",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_atrioventricular_valves",
@@ -1433,10 +1433,10 @@
     "definition": "Graphic record (radiographic image) of hearing.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_audi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_gram"
   },
   {
     "id": "t_audiologist",
@@ -1444,10 +1444,10 @@
     "definition": "Specialist who studies and treats the hearing.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_audi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logist"
   },
   {
     "id": "t_audiology",
@@ -1455,10 +1455,10 @@
     "definition": "Study of the hearing.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_audi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logy"
   },
   {
     "id": "t_audiometer",
@@ -1466,10 +1466,10 @@
     "definition": "Instrument used to measure hearing.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_audi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_meter"
   },
   {
     "id": "t_audiometry",
@@ -1477,10 +1477,10 @@
     "definition": "Measuring hearing.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_audi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_metry"
   },
   {
     "id": "t_aural",
@@ -1847,15 +1847,26 @@
     "suffixId": "s_itis"
   },
   {
+    "id": "t_blepharoconjunctivitis",
+    "word": "blepharoconjunctivitis",
+    "definition": "Inflammation of the eyelids and the conjunctiva.",
+    "system": ["Sensory System"],
+    "prefixId": "",
+    "rootId": "r_blephar",
+    "rootId2": "r_conjunctiv",
+    "rootId3": "",
+    "suffixId": "s_itis"
+  },
+  {
     "id": "t_blepharoplasty",
     "word": "blepharoplasty",
     "definition": "Surgical repair of the eyelid.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_blephar",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_blepharoptosis",
@@ -1863,10 +1874,10 @@
     "definition": "Drooping of the eyelid.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_blephar",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ptosis"
   },
   {
     "id": "t_blood_brain_barrier",
@@ -2181,10 +2192,10 @@
     "definition": "Causing cancer.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_carcin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_genic"
   },
   {
     "id": "t_cardiac",
@@ -2196,17 +2207,6 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "s_ac"
-  },
-  {
-    "id": "t_cardiac_muscle",
-    "word": "cardiac muscle",
-    "definition": "The heart muscle also known as the myocardium. Its appearance is similar to skeletal muscle. It pumps blood and gives the heart beat.",
-    "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": ""
   },
   {
     "id": "t_cardiac_notch",
@@ -2258,10 +2258,10 @@
     "definition": "Originating in the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cardi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_genic"
   },
   {
     "id": "t_cardiologist",
@@ -2981,9 +2981,9 @@
     "suffixId": ""
   },
   {
-    "id": "t_clubbing_of_the_fingers_and_toes",
-    "word": "clubbing of the fingers and toes",
-    "definition": "Broadening of the nails and exaggerated curvature of the nails.",
+    "id": "t_clubbing",
+    "word": "clubbing",
+    "definition": "Broadening of the nails and exaggerated curvature of the nails in the fingers and toes.",
     "system": ["Respiratory System", "Cardiovascular System"],
     "prefixId": "",
     "rootId": "",
@@ -3576,13 +3576,13 @@
   {
     "id": "t_cyanosis",
     "word": "cyanosis",
-    "definition": "Abnormal condition of blue (bluish color, lips and nail beds). Typically caused by low oxygenation.",
+    "definition": "Abnormal condition of blue (bluish color, lips and nail beds).",
     "system": ["Cardiovascular System", "Respiratory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cyan",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_cyanotic",
@@ -3590,10 +3590,10 @@
     "definition": "Pertaining to abnormal color of blue (bluish color, lips and nail beds) caused by deoxygenation.",
     "system": ["Cardiovascular System", "Respiratory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cyan",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_otic"
   },
   {
     "id": "t_cyst",
@@ -4619,32 +4619,32 @@
     "definition": "Obstruction in a blood vessel such as a blood clot, fatty mass, air bubble, or other foreign matter that interrupts the flow of blood to an organ or some part of the body.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_embol",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_us"
   },
   {
     "id": "t_embryogenic",
     "word": "embryogenic",
     "definition": "Producing an embryo.",
-    "system": ["General System"],
+    "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_embry",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_genic"
   },
   {
     "id": "t_embryoid",
     "word": "embryoid",
     "definition": "Resembling an embryo.",
-    "system": ["General System"],
+    "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_embry",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oid"
   },
   {
     "id": "t_emesis",
@@ -4724,6 +4724,8 @@
     "system": ["Cardiovascular System"],
     "prefixId": "p_endo",
     "rootId": "r_card",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_itis"
   },
   {
@@ -4733,6 +4735,8 @@
     "system": ["Reproductive System"],
     "prefixId": "p_endo",
     "rootId": "r_cervic",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_al"
   },
   {
@@ -4764,6 +4768,8 @@
     "system": ["Endocrine System"],
     "prefixId": "",
     "rootId": "r_endocrin",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_ologist"
   },
   {
@@ -4773,6 +4779,8 @@
     "system": ["Endocrine System"],
     "prefixId": "",
     "rootId": "r_endocrin",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_ology"
   },
   {
@@ -4782,6 +4790,8 @@
     "system": ["Endocrine System"],
     "prefixId": "",
     "rootId": "r_endocrin",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_pathy"
   },
   {
@@ -4802,6 +4812,8 @@
     "system": ["Reproductive System"],
     "prefixId": "p_endo",
     "rootId": "r_metri",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_osis"
   },
   {
@@ -4811,6 +4823,8 @@
     "system": ["Reproductive System"],
     "prefixId": "p_endo",
     "rootId": "r_metri",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_itis"
   },
   {
@@ -4820,6 +4834,8 @@
     "system": ["Reproductive System"],
     "prefixId": "p_endo",
     "rootId": "r_metri",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_um"
   },
   {
@@ -4829,6 +4845,8 @@
     "system": ["Sensory System"],
     "prefixId": "p_endo",
     "rootId": "r_ophthalm",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_itis"
   },
   {
@@ -9318,6 +9336,17 @@
     "suffixId": ""
   },
   {
+    "id": "r_myocardium",
+    "word": "myocardium",
+    "definition": "Muscle of the heart",
+    "system": ["Cardiovascular System"],
+    "prefixId": "",
+    "rootId": "r_my",
+    "rootId2": "r_cardi",
+    "rootId3": "",
+    "suffixId": "s_um"
+  },
+  {
     "id": "t_myocardial_infarction",
     "word": "myocardial infarction",
     "definition": "heart attack, caused by lack of blood flow and oxygen to the heart.",
@@ -9334,10 +9363,10 @@
     "definition": "Inflammation of the muscle of the heart.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_my",
+    "rootId2": "r_cardi",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_myometritis",
@@ -9366,10 +9395,10 @@
     "definition": "Suturing of a muscle.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_myo",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_myringitis",
@@ -9405,7 +9434,7 @@
     "suffixId": ""
   },
   {
-    "id": "t_na_ve_lymphocyte",
+    "id": "t_naive_lymphocyte",
     "word": "naïve lymphocyte",
     "definition": "Mature B or T cell that has not yet encountered antigen for the first time.",
     "system": ["Immune System"],
@@ -9639,7 +9668,7 @@
     "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "s_ologist"
+    "suffixId": "s_logist"
   },
   {
     "id": "t_nephrology",
@@ -9650,7 +9679,7 @@
     "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "s_ology"
+    "suffixId": "s_logy"
   },
   {
     "id": "t_nephrolysis",
@@ -9702,10 +9731,10 @@
     "definition": "Process of viewing the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_nephrosonography",
@@ -9713,10 +9742,10 @@
     "definition": "Process of recording the kidney using sound.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_nephr",
+    "rootId2": "r_son",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_nephrostomy",
@@ -9724,10 +9753,10 @@
     "definition": "Creation of an artificial opening into the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_nephr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_stomy"
   },
   {
     "id": "t_nerve",
@@ -9746,10 +9775,10 @@
     "definition": "Excision of nerves.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_neuritis",
@@ -9757,10 +9786,10 @@
     "definition": "Inflammation of the nerves.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_neuroarthropathy",
@@ -9768,10 +9797,10 @@
     "definition": "Disease of the nerves and joints.",
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_neur",
+    "rootId2": "r_arthr",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_neuroglia",
@@ -9790,10 +9819,10 @@
     "definition": "Resembling a nerve.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oid"
   },
   {
     "id": "t_neurologist",
@@ -9801,10 +9830,10 @@
     "definition": "Specialist who studies and treats the nervous system.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logist"
   },
   {
     "id": "t_neurology",
@@ -9812,10 +9841,10 @@
     "definition": "Study of nerves.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logy"
   },
   {
     "id": "t_neurolysis",
@@ -9823,10 +9852,10 @@
     "definition": "Dissolution of nerve (for pain management).",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_lysis"
   },
   {
     "id": "t_neuroma",
@@ -9834,10 +9863,10 @@
     "definition": "Tumor made up of nerve (cells).",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_neuron",
@@ -9845,10 +9874,10 @@
     "definition": "Neural tissue cell that is primarily responsible for generating and propagating electrical signals into, within, and out of the nervous system.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_on"
   },
   {
     "id": "t_neuroplasty",
@@ -9856,10 +9885,10 @@
     "definition": "Surgical repair of a nerve.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_neuropathy",
@@ -9867,10 +9896,10 @@
     "definition": "Disease of (peripheral) nerves.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_neurorrhaphy",
@@ -9878,10 +9907,10 @@
     "definition": "Suturing of a nerve.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_neurosensory",
@@ -9900,10 +9929,10 @@
     "definition": "Incision into a nerve.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_neur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_otomy"
   },
   {
     "id": "t_neurotransmitter",

@@ -93,6 +93,8 @@
 	{ "id": "r_ech", "form": "ech/o", "meaning": "sound" },
 	{ "id": "r_eclamps", "form": "eclamps/o", "meaning": "seizure" },
 	{ "id": "r_electr", "form": "electr/o", "meaning": "electricity" },
+	{ "id": "r_embol", "form": "embol/o", "meaning": "plug, wedge" },
+	{ "id": "r_embry", "form": "embry/o", "meaning": "embryo" },
 	{ "id": "r_end", "form": "end/o", "meaning": "within, in" },
 	{ "id": "r_endocrin", "form": "endocrin/o", "meaning": "endocrine system" },
 	{ "id": "r_encephal", "form": "encephal/o", "meaning": "brain" },
