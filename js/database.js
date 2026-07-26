@@ -112,8 +112,12 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 	const nav = document.getElementById("letter-nav");
 	const allBtn = document.createElement("button");
 	allBtn.textContent = "All";
-	allBtn.classList.add("btn");
-	allBtn.addEventListener("click", () => renderTerms("All", "")); // Refresh letter and system
+	allBtn.classList.add("btn", "active");
+	allBtn.addEventListener("click", () => {
+		renderTerms("All", "");
+		removeActiveClass();
+		allBtn.classList.add("active");
+	}); // Refresh letter and system
 	nav.appendChild(allBtn);
 
 	"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((letter) => {
