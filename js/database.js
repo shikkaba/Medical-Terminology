@@ -85,7 +85,8 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 					<div class="word"><h3>${term.word}</h3></div>
 					<div class="definition">${term.definition}</div>
 					<div class="breakdown">
-							${hasRoot
+							${
+								hasRoot
 									? `
 									<div class="part"><span class="label">Prefix</span><strong>${prefix?.form || ""}</strong>: ${prefix?.meaning || "N/A"}</div>
 									<div class="part"><span class="label">Root</span><strong>${root.form}</strong>: ${root.meaning || "N/A"}</div>
@@ -119,9 +120,21 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 		const btn = document.createElement("button");
 		btn.textContent = letter;
 		btn.classList.add("btn");
-		btn.addEventListener("click", () => renderTerms(letter, currentSystem)); // Retain active system
+		btn.classList.remove("active");
+		btn.addEventListener("click", () => {
+			renderTerms(letter, currentSystem);
+			removeActiveClass();
+			btn.classList.add("active");
+		}); // Retain active system
 		nav.appendChild(btn);
 	});
+
+	// Remove active class from all buttons
+	function removeActiveClass() {
+		document.querySelectorAll("#letter-nav .btn").forEach((btn) => {
+			btn.classList.remove("active");
+		});
+	}
 
 	// Build the system filter dropdown
 	const systemNav = document.getElementById("filter");

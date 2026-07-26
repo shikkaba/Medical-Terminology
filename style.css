@@ -62,7 +62,8 @@ body {
   font-size: 0.85rem;
 }
 
-#letter-nav .btn:hover {
+#letter-nav .btn:hover,
+#letter-nav .btn.active {
   background-color: var(--primary);
   color: var(--card-bg);
 }
