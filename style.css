@@ -61,11 +61,35 @@ h2 {
   z-index: 10;
 }
 
-.filters {
+.filter-control {
+  width: max-content;
+  display: inline-block;
+  justify-content: end;
+  cursor: pointer;
+  padding: 3px 15px;
+  position: absolute;
+  bottom: 0;
+  right: 15px;
+  line-height: 25px;
+  background: transparent;
+  color: var(--primary);
+  border: none;
+  transition: all 0.5s;
+}
+
+.filter-control:hover {
+  color: var(--text);
+}
+
+.filter-control .arrow {
+  margin-left: 10px;
+}
+
+#filters {
   position: sticky;
   top: 120px;
   margin: 0 0 50px;
-  padding: 15px;
+  padding: 15px 15px 45px;
   background: var(--card-bg);
   width: 100%;
   max-width: 1500px;
@@ -75,6 +99,21 @@ h2 {
   align-items: center;
   flex-wrap: wrap;
   z-index: 10;
+  max-height: 450px;
+  transition: max-height 0.5s ease-in-out;
+}
+
+#filters.closed {
+  row-gap: 0;
+  max-height: 50px;
+  transition: max-height 0.5s ease-in-out;
+}
+
+#filters.closed #filter,
+#filters.closed #letter-nav {
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
 }
 
 #letter-nav {

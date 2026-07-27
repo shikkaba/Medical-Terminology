@@ -12,18 +12,16 @@
         <h1>Medical Terminology Breakdown</h1>
         <h2>All Terms</h2>
 
-        <nav class="filters">
+        <nav id="filters">
             <div id="letter-nav"></div>
-            <div id="filter">
-                <div
-                    class="filter-control"
-                    role="button"
-                    tabindex="0"
-                    aria-expanded="false"
-                >
-                    Filters <span class="arrow">▶</span>
-                </div>
-            </div>
+            <div id="filter"></div>
+            <button
+                class="filter-control"
+                role="button"
+                aria-controls="filters"
+            >
+                Filters <span class="arrow">▶</span>
+            </button>
         </nav>
 
         <div class="container" id="card-container">Loading flashcards...</div>

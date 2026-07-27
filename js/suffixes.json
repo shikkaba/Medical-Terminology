@@ -150,6 +150,7 @@
 	{ "id": "s_paresis", "form": "-paresis", "meaning": "slight paralysis" },
 	{ "id": "s_parous", "form": "-parous", "meaning": "having given birth" },
 	{ "id": "s_pathy", "form": "-pathy", "meaning": "disease" },
+	{ "id": "s_pause", "form": "-pause", "meaning": "cessation, stopping" },
 	{
 		"id": "s_penia",
 		"form": "-penia",

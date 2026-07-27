@@ -624,7 +624,7 @@
   {
     "id": "t_anesthesia",
     "word": "anesthesia",
-    "definition": "Without (loss of) feeling or sensation.",
+    "definition": "Condition/loss of feeling or sensation.",
     "system": ["General System"],
     "prefixId": "",
     "rootId": "",
@@ -1865,7 +1865,7 @@
     "system": ["Sensory System"],
     "prefixId": "",
     "rootId": "r_blephar",
-    "rootId2": "r_conjunctiv",
+    "rootId2": "r_conjuntiv",
     "rootId3": "",
     "suffixId": "s_itis"
   },
@@ -3002,6 +3002,17 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": ""
+  },
+  {
+    "id": "t_cochlea",
+    "word": "cochlea",
+    "definition": "Cochlea.",
+    "system": ["Sensory System"],
+    "prefixId": "",
+    "rootId": "r_cochle",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "s_a"
   },
   {
     "id": "t_cochlear",
@@ -4723,6 +4734,17 @@
     "suffixId": ""
   },
   {
+    "id": "t_encephalopathy",
+    "word": "encephalopathy",
+    "definition": "Hardening of the brain.",
+    "system": ["Nervous System"],
+    "prefixId": "",
+    "rootId": "r_encephal",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "s_pathy"
+  },
+  {
     "id": "t_endarterectomy",
     "word": "endarterectomy",
     "definition": "Excision within the artery.",
@@ -5856,10 +5878,10 @@
     "definition": "Tumor composed of developing glial tissue.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gli",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_blastoma"
   },
   {
     "id": "t_gliocyte",
@@ -5878,10 +5900,10 @@
     "definition": "Tumor composed of the glial tissue.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gli",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_glomerulonephritis",
@@ -7667,10 +7689,10 @@
     "definition": "Inflammation of the cornea.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_kerat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_keratogenic",
@@ -7678,10 +7700,10 @@
     "definition": "Agent that causes growth of horny tissue.",
     "system": ["Integumentary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_kerat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_genic"
   },
   {
     "id": "t_keratomalacia",
@@ -7689,10 +7711,10 @@
     "definition": "Softening of the cornea.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_kerat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_malacia"
   },
   {
     "id": "t_keratometer",
@@ -8827,10 +8849,10 @@
     "definition": "Tumor of the meninges.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_meningi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_meningitis",
@@ -8838,10 +8860,10 @@
     "definition": "Inflammation of the meninges.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_mening",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_meningocele",
@@ -8849,10 +8871,10 @@
     "definition": "Protrusion of the meninges.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_mening",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_cele"
   },
   {
     "id": "t_meningomyelocele",
@@ -8860,10 +8882,10 @@
     "definition": "Protrusion of the meninges and spinal cord.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_mening",
+    "rootId2": "r_myel",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_cele"
   },
   {
     "id": "t_meniscectomy",
@@ -8871,10 +8893,10 @@
     "definition": "Excision of the meniscus.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_menisc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_meniscitis",
@@ -8882,10 +8904,10 @@
     "definition": "Inflammation of the meniscus.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_menisc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_itis"
   },
   {
     "id": "t_menometrorrhagia",
@@ -8904,10 +8926,10 @@
     "definition": "Cessation of menstruation.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_men",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_pause"
   },
   {
     "id": "t_menorrhagia",
@@ -9773,6 +9795,17 @@
     "suffixId": ""
   },
   {
+    "id": "t_neuralgia",
+    "word": "neuralgia",
+    "definition": "Pain of the nerves.",
+    "system": ["Nervous System"],
+    "prefixId": "",
+    "rootId": "r_neur",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "s_algia"
+  },
+  {
     "id": "t_neurectomy",
     "word": "neurectomy",
     "definition": "Excision of nerves.",
@@ -9804,17 +9837,6 @@
     "rootId2": "r_arthr",
     "rootId3": "",
     "suffixId": "s_pathy"
-  },
-  {
-    "id": "t_neuroglia",
-    "word": "neuroglia",
-    "definition": "Supportive tissue of the nervous system, including the network of branched cells in the central nervous system (astrocytes, microglia, and oligodendrocytes) and the supporting cells of the peripheral nervous system (Schwann cells and satellite cells), also called glia.",
-    "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": ""
   },
   {
     "id": "t_neuroid",
@@ -11171,11 +11193,11 @@
     "word": "paraplegia",
     "definition": "Paralysis that affects both legs and lower part of the body.",
     "system": ["Nervous System"],
-    "prefixId": "",
+    "prefixId": "p_para",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plegia"
   },
   {
     "id": "t_parathyroidectomy",
@@ -11537,10 +11559,10 @@
     "definition": "Softening of the lens.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_phac",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_malacia"
   },
   {
     "id": "t_phagocytes",

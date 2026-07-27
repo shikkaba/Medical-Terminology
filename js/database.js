@@ -165,12 +165,11 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 
 	// Filter control toggle
 	const filterControl = document.querySelector(".filter-control");
-	const filterArrow = filterControl?.querySelector(".arrow");
-	filterControl?.addEventListener("click", () => {
-		filterArrow?.classList.toggle("rotate");
+	filterControl.addEventListener("click", () => {
+		filters.classList.toggle("closed");
 	});
 
-/*document.addEventListener("DOMContentLoaded", function () {
+	/*document.addEventListener("DOMContentLoaded", function () {
 	const headers = document.querySelectorAll(".filter-header");
 
 	headers.forEach(header => {
@@ -201,9 +200,6 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 		}
 	}
 });*/
-
-
-	
 
 	// Initial render (all terms)
 	renderTerms();
