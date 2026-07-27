@@ -54,20 +54,21 @@ h2 {
   background: var(--bg);
   width: 100%;
   position: sticky;
-  top: 80px;
+  top: 70px;
   padding: 15px;
   text-align: center;
+  font-size: 1.125rem;
   z-index: 10;
 }
 
 .filters {
   position: sticky;
-  top: 130px;
+  top: 120px;
   margin: 0 0 50px;
-  padding: 25px 15px;
+  padding: 15px;
   background: var(--card-bg);
   width: 100%;
-  max-width: 1000px;
+  max-width: 1500px;
   display: flex;
   row-gap: 25px;
   flex-direction: row;
@@ -95,7 +96,7 @@ h2 {
   color: var(--primary);
   border: 2px solid var(--primary);
   border-radius: 4px;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 
 #letter-nav .btn:hover,
@@ -120,7 +121,7 @@ h2 {
   border: 2px solid var(--primary);
   background-color: var(--card-bg);
   color: var(--primary);
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   width: 100%;
 }
 
@@ -130,7 +131,7 @@ h2 {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1500px;
 }
 
 .card {
