@@ -12610,10 +12610,10 @@
     "definition": "Pertaining to pubis.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_pub",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ic"
   },
   {
     "id": "t_pubofemoral",
@@ -12621,10 +12621,10 @@
     "definition": "Pertaining to pubic bone and femur.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_pub",
+    "rootId2": "r_fem",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_puerpera",

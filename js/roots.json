@@ -83,6 +83,7 @@
 		"form": "cortic/o",
 		"meaning": "cortex, outer layer of a body organ"
 	},
+	{ "id": "r_cost", "form": "cost/o", "meaning": "rib" },
 	{ "id": "r_crani", "form": "crani/o", "meaning": "cranium" },
 	{ "id": "r_cry", "form": "cry/o", "meaning": "cold" },
 	{ "id": "r_cutane", "form": "cutane/o", "meaning": "skin" },
@@ -117,6 +118,7 @@
 		"form": "esthesi/o",
 		"meaning": "sensation, sensitivity"
 	},
+	{ "id": "r_femor", "form": "femor/o", "meaning": "femur"},
 	{ "id": "r_fibr", "form": "fibr/o", "meaning": "fibrous tissue" },
 	{ "id": "r_fibul", "form": "fibul/o", "meaning": "fibula" },
 	{ "id": "r_gangli", "form": "gangli/o", "meaning": "ganglion" },
