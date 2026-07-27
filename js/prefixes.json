@@ -6,8 +6,9 @@
 		"form": "acro-",
 		"meaning": "heights, extremes, extremities"
 	},
-	{ "id": "p_ad", "form": "ad-", "meaning": "toward" },
+	{ "id": "p_ad", "form": "ad-", "meaning": "towards" },
 	{ "id": "p_albumin", "form": "albumin-", "meaning": "albumin" },
+	{ "id": "p_amphi", "form": "amphi-", "meaning": "both, on both sides" },
 	{ "id": "p_an", "form": "an-", "meaning": "absence of, without, no, not" },
 	{ "id": "p_ana", "form": "ana-", "meaning": "up, apart, upward, backward" },
 	{ "id": "p_ante", "form": "ante-", "meaning": "before" },

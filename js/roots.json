@@ -16,6 +16,7 @@
 	{ "id": "r_ankyl", "form": "ankyl/o", "meaning": "stiff, bent" },
 	{ "id": "r_aort", "form": "aort/o", "meaning": "aorta" },
 	{ "id": "r_appendic", "form": "appendic/o", "meaning": "appendix" },
+	{ "id": "r_arthr", "form": "arthr/o", "meaning": "joint" },
 	{ "id": "r_atel", "form": "atel/o", "meaning": "imperfect, incomplete" },
 	{ "id": "r_atri", "form": "atri/o", "meaning": "atrium" },
 	{ "id": "r_audi", "form": "audi/o", "meaning": "hearing" },
@@ -50,6 +51,7 @@
 	{ "id": "r_capsul", "form": "capsul/o", "meaning": "to box" },
 	{ "id": "r_carcin", "form": "carcin/o", "meaning": "cancer" },
 	{ "id": "r_cardi", "form": "cardi/o", "meaning": "heart" },
+	{ "id": "r_carp", "form": "carp/o", "meaning": "wrist, carpals" },
 	{ "id": "r_cec", "form": "cec/o", "meaning": "cecum" },
 	{ "id": "r_celi", "form": "celi/o", "meaning": "abdomen, abdominal cavity" },
 	{ "id": "r_cellul", "form": "cellul/o", "meaning": "cellular tissue" },
@@ -60,7 +62,14 @@
 	{ "id": "r_cholangi", "form": "cholangi/o", "meaning": "bile duct" },
 	{ "id": "r_chole", "form": "chol/e", "meaning": "gall, bile" },
 	{ "id": "r_choleduc", "form": "choleduc/o", "meaning": "bile duct" },
+	{ "id": "r_chondr", "form": "chondr/o", "meaning": "cartilage" },
 	{ "id": "r_chori", "form": "chori/o", "meaning": "chorion" },
+	{ "id": "r_clavic", "form": "clavic/o", "meaning": "clavicle, collarbone" },
+	{
+		"id": "r_clavicul",
+		"form": "clavicul/o",
+		"meaning": "clavicle, collarbone"
+	},
 	{ "id": "r_cochle", "form": "cochle/o", "meaning": "cochlea" },
 	{ "id": "r_col", "form": "col/o", "meaning": "colon" },
 	{ "id": "r_colon", "form": "colon/o", "meaning": "colon" },
@@ -74,6 +83,7 @@
 		"form": "cortic/o",
 		"meaning": "cortex, outer layer of a body organ"
 	},
+	{ "id": "r_crani", "form": "crani/o", "meaning": "cranium" },
 	{ "id": "r_cry", "form": "cry/o", "meaning": "cold" },
 	{ "id": "r_cutane", "form": "cutane/o", "meaning": "skin" },
 	{ "id": "r_crypt", "form": "crypt/o", "meaning": "hidden" },
@@ -134,8 +144,13 @@
 	{ "id": "r_isch", "form": "isch/o", "meaning": "deficiency, blockage" },
 	{ "id": "r_ischi", "form": "ischi/o", "meaning": "ischium" },
 	{ "id": "r_iso", "form": "iso/o", "meaning": "equal" },
-	{ "id": "r_kines", "form": "kines/o", "meaning": "movement" },
+	{ "id": "r_kinesi", "form": "kinesi/o", "meaning": "movement" },
 	{ "id": "r_kerat", "form": "kerat/o", "meaning": "cornea" },
+	{
+		"id": "r_kyph",
+		"form": "kyp/o",
+		"meaning": "increased convexity of the spine"
+	},
 	{
 		"id": "r_labryth",
 		"form": "labyrith/o",
@@ -174,6 +189,7 @@
 	},
 	{ "id": "r_men", "form": "men/o", "meaning": "menstration" },
 	{ "id": "r_mening", "form": "mening/o", "meaning": "meninges" },
+	{ "id": "r_menisc", "form": "menisc/o", "meaning": "meniscus" },
 	{ "id": "r_metr", "form": "metr/o", "meaning": "uterus" },
 	{ "id": "r_metri", "form": "metri/o", "meaning": "uterus" },
 	{ "id": "r_miss", "form": "miss/o", "meaning": "to send back" },
@@ -186,7 +202,7 @@
 	{ "id": "r_mut", "form": "mut/o", "meaning": "change" },
 	{ "id": "r_my", "form": "my/o", "meaning": "muscle" },
 	{ "id": "r_myc", "form": "myc/o", "meaning": "fungus" },
-	{ "id": "r_myel", "form": "myel/o", "meaning": "bone marrow" },
+	{ "id": "r_myel", "form": "myel/o", "meaning": "spinal cord, bone marrow" },
 	{ "id": "r_myos", "form": "myos/o", "meaning": "muscle" },
 	{ "id": "r_nas", "form": "nas/o", "meaning": "nose" },
 	{ "id": "r_nati", "form": "nat/i", "meaning": "birth, born" },
@@ -220,8 +236,16 @@
 	{ "id": "r_pancreat", "form": "pancreat/o", "meaning": "pancreas" },
 	{ "id": "r_patell", "form": "patell/o", "meaning": "patella, kneecap" },
 	{ "id": "r_path", "form": "path/o", "meaning": "disease" },
-	{ "id": "r_par", "form": "par/o", "meaning": "to bear, labor, childbirth, give birth to" },
-	{ "id": "r_part", "form": "part/o", "meaning": "to bear, labor, childbirth, give birth to" },
+	{
+		"id": "r_par",
+		"form": "par/o",
+		"meaning": "to bear, labor, childbirth, give birth to"
+	},
+	{
+		"id": "r_part",
+		"form": "part/o",
+		"meaning": "to bear, labor, childbirth, give birth to"
+	},
 	{ "id": "r_pelvi", "form": "pelv/i", "meaning": "pelvis, pelvic bone" },
 	{ "id": "r_pelvo", "form": "pelv/o", "meaning": "pelvis, pelvic bone" },
 	{ "id": "r_peno", "form": "pen/o", "meaning": "penis" },
@@ -252,8 +276,13 @@
 	{ "id": "r_puerper", "form": "puerper/o", "meaning": "childbirth" },
 	{ "id": "r_pupill", "form": "pupill/o", "meaning": "pupil" },
 	{ "id": "r_py", "form": "py/o", "meaning": "pus" },
-	{"id": "r_pylor", "form": "pylor/o", "meaning": "pylorus, pyloric sphincter"},
+	{
+		"id": "r_pylor",
+		"form": "pylor/o",
+		"meaning": "pylorus, pyloric sphincter"
+	},
 	{ "id": "r_py", "form": "py/o", "meaning": "pus" },
+	{ "id": "r_rachi", "form": "rachi/o", "meaning": "spine, vertibral column" },
 	{ "id": "r_radi", "form": "radi/o", "meaning": "x-rays, ionizing radiation" },
 	{ "id": "r_radicul", "form": "radicul/o", "meaning": "nerve root" },
 	{ "id": "r_rect", "form": "rect/o", "meaning": "rectum" },
@@ -266,6 +295,7 @@
 	{ "id": "r_sarc", "form": "sarc/o", "meaning": "flesh" },
 	{ "id": "r_salping", "form": "salping/o", "meaning": "tube" },
 	{ "id": "r_scler", "form": "scler/o", "meaning": "sclera" },
+	{ "id": "r_scoli", "form": "scoli/o", "meaning": "crooked, curved" },
 	{ "id": "r_scrot", "form": "scrot/o", "meaning": "scrotum" },
 	{ "id": "r_seb", "form": "seb/o", "meaning": "sebum" },
 	{ "id": "r_semin", "form": "semin/i", "meaning": "semen" },
@@ -287,12 +317,24 @@
 	{ "id": "r_staped", "form": "staped/o", "meaning": "stapes, middle ear" },
 	{ "id": "r_staphyl", "form": "staphyl/o", "meaning": "grapelike clusters" },
 	{ "id": "r_steat", "form": "steat/o", "meaning": "fat, sebum" },
+	{ "id": "r_stern", "form": "stern/o", "meaning": "sternum" },
 	{ "id": "r_strept", "form": "strept/o", "meaning": "twisted chains" },
 	{ "id": "r_stomat", "form": "stomat/o", "meaning": "mouth" },
 	{ "id": "r_symptomat", "form": "symptomat/o", "meaning": "symptom" },
+	{
+		"id": "r_synov",
+		"form": "synov/o",
+		"meaning": "synovial membrane, synoveal fluid"
+	},
+	{
+		"id": "r_synovi",
+		"form": "synovi/o",
+		"meaning": "synovial membrane, synoveal fluid"
+	},
 	{ "id": "r_tachy", "form": "tachy/o", "meaning": "fast, rapid" },
 	{ "id": "r_tars", "form": "tars/o", "meaning": "tarsal bone" },
 	{ "id": "r_ten", "form": "ten/o", "meaning": "tendon" },
+	{ "id": "r_tend", "form": "tend/o", "meaning": "tendon" },
 	{ "id": "r_tendin", "form": "tendin/o", "meaning": "tendon" },
 	{ "id": "r_tempor", "form": "tempor/o", "meaning": "temple" },
 	{ "id": "r_test", "form": "test/o", "meaning": "testis, testicle" },

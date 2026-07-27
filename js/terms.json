@@ -538,11 +538,11 @@
     "word": "amphiarthrosis",
     "definition": "Joints with some movement.",
     "system": ["Musculoskeletal System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_amphi",
+    "rootId": "r_athr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_ampulla",
@@ -2115,10 +2115,10 @@
     "definition": "Excision of bursa. C",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_burs",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_caesarian_section",
@@ -2332,10 +2332,10 @@
     "definition": "Pertaining to carpal (wrist).",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_carp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_carpectomy",
@@ -2343,10 +2343,10 @@
     "definition": "Excision of a carpal (wrist).",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_carp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_cataract",
@@ -2811,10 +2811,10 @@
     "definition": "Excision of cartilage.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_chondr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_chondromalacia",
@@ -2822,10 +2822,10 @@
     "definition": "Softening of cartilage.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_chondr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_malacia"
   },
   {
     "id": "t_chondroplasty",
@@ -2833,10 +2833,10 @@
     "definition": "Surgical repair of cartilage.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_chondr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_chorioamnionitis",
