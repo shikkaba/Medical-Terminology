@@ -1203,6 +1203,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_itis"
   },
   {
@@ -1212,6 +1214,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_centesis"
   },
   {
@@ -1221,6 +1225,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_clasia"
   },
   {
@@ -1230,6 +1236,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_desis"
   },
   {
@@ -1239,6 +1247,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_graphy"
   },
   {
@@ -1257,6 +1267,8 @@
     "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_arthr",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_scopy"
   },
   {
@@ -1894,7 +1906,7 @@
     "id": "t_bone_marrow",
     "word": "bone marrow",
     "definition": "Tissue found inside bones, the site of all blood cell differentiation and maturation of b lymphocytes.",
-    "system": ["Cardiovascular System", "Musculoskeletal System"],
+    "system": ["Musculoskeletal System"],
     "prefixId": "",
     "rootId": "",
     "rootId2": "",
@@ -2975,10 +2987,10 @@
     "definition": "Pertaining to the clavicle.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_clavicul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_clubbing",
@@ -3403,10 +3415,10 @@
     "definition": "Excision of rib(s).",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cost",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_costochondral",
@@ -3414,10 +3426,10 @@
     "definition": "Pertaining to ribs and cartilage.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_cost",
+    "rootId2": "r_chondr",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_cranial",
@@ -3425,10 +3437,10 @@
     "definition": "Pertaining to the cranium.",
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_crani",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_cranial_cavity",
@@ -3447,10 +3459,10 @@
     "definition": "Pertaining to the cranium and cerebrum.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_crani",
+    "rootId2": "r_cerebr",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_cranioplasty",
@@ -3458,10 +3470,10 @@
     "definition": "Surgical repair of the cranium.",
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_crani",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_cranioschisis",
@@ -3469,10 +3481,10 @@
     "definition": "Fissure of the cranium.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_crani",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_schisis"
   },
   {
     "id": "t_craniotomy",
@@ -3480,10 +3492,10 @@
     "definition": "Incision into the cranium.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_crani",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_creatine_kinase_mb",
@@ -4043,11 +4055,11 @@
     "word": "diarthrosis",
     "definition": "Freely moveable joints.",
     "system": ["Musculoskeletal System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_dia",
+    "rootId": "r_arthr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_diastole",
@@ -4121,10 +4133,10 @@
     "definition": "Excision of the intervertebral disk.",
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_disk",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_diskitis",
@@ -4133,6 +4145,8 @@
     "system": ["Nervous System", "Musculoskeletal System"],
     "prefixId": "",
     "rootId": "r_disk",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_itis"
   },
   {
@@ -5067,10 +5081,10 @@
     "definition": "Suturing of the vulva.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_episi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_rrhaphy"
   },
   {
     "id": "t_episiotomy",
@@ -5080,17 +5094,6 @@
     "prefixId": "",
     "rootId": "r_episi",
     "suffixId": "s_otomy"
-  },
-  {
-    "id": "t_epistaxis",
-    "word": "epistaxis",
-    "definition": "Nose bleed (rhinorrhagia).",
-    "system": ["Respiratory System"],
-    "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": ""
   },
   {
     "id": "t_epithalamus",
@@ -15962,10 +15965,10 @@
     "definition": "Pertaining to vertebrae and ribs.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vertebr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_costal"
   },
   {
     "id": "t_vertebroplasty",
@@ -15973,10 +15976,10 @@
     "definition": "Surgical repair of the vertebral column.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vertebr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plasty"
   },
   {
     "id": "t_vesicotomy",
@@ -15984,10 +15987,10 @@
     "definition": "Incision into the bladder.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vesic",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_tomy"
   },
   {
     "id": "t_vesicovaginal",
@@ -15995,10 +15998,10 @@
     "definition": "Pertaining to the bladder and the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_vesic",
+    "rootId2": "r_vagin",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_vesiculectomy",
@@ -16006,10 +16009,10 @@
     "definition": "Excision of the seminal vesicle.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vesicul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ectomy"
   },
   {
     "id": "t_vessel_compliance",
@@ -16028,10 +16031,10 @@
     "definition": "Pertaining to the vestibule.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vestibul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_vestibulocochlear",
@@ -16039,10 +16042,10 @@
     "definition": "Pertaining to the vestibule and cochlea.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_vestibul",
+    "rootId2": "r_cochle",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_virus",
