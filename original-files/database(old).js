@@ -1,7 +1,6 @@
 function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 	// Generate HTML by stitching data structures together
 	const container = document.getElementById("card-container");
-	const filters = document.getElementById("filters");
 
 	// Global tracking states for filters
 	let currentLetter = null;
@@ -113,17 +112,33 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 	const nav = document.getElementById("letter-nav");
 	const allBtn = document.createElement("button");
 	allBtn.textContent = "All";
-	allBtn.classList.add("btn");
-	allBtn.addEventListener("click", () => renderTerms("All", "")); // Refresh letter and system
+	allBtn.classList.add("btn", "active");
+	allBtn.addEventListener("click", () => {
+		renderTerms("All", "");
+		removeActiveClass();
+		allBtn.classList.add("active");
+	}); // Refresh letter and system
 	nav.appendChild(allBtn);
 
 	"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((letter) => {
 		const btn = document.createElement("button");
 		btn.textContent = letter;
 		btn.classList.add("btn");
-		btn.addEventListener("click", () => renderTerms(letter, currentSystem)); // Retain active system
+		btn.classList.remove("active");
+		btn.addEventListener("click", () => {
+			renderTerms(letter, currentSystem);
+			removeActiveClass();
+			btn.classList.add("active");
+		}); // Retain active system
 		nav.appendChild(btn);
 	});
+
+	// Remove active class from all buttons
+	function removeActiveClass() {
+		document.querySelectorAll("#letter-nav .btn").forEach((btn) => {
+			btn.classList.remove("active");
+		});
+	}
 
 	// Build the system filter dropdown
 	const systemNav = document.getElementById("filter");
@@ -162,48 +177,6 @@ function initDatabase({ terms, prefixMap, rootMap, suffixMap }) {
 		// Update the grid passing the new system while retaining the active letter
 		renderTerms(currentLetter, selectedSystem);
 	});
-
-	// Filter control toggle
-	const filterControl = document.querySelector(".filter-control");
-	const filterArrow = filterControl?.querySelector(".arrow");
-	filterControl?.addEventListener("click", () => {
-		filterArrow?.classList.toggle("rotate");
-	});
-
-/*document.addEventListener("DOMContentLoaded", function () {
-	const headers = document.querySelectorAll(".filter-header");
-
-	headers.forEach(header => {
-		header.addEventListener("click", toggleSection);
-		header.addEventListener("keypress", function (e) {
-			if (e.key === "Enter" || e.key === " ") {
-				e.preventDefault();
-				toggleSection.call(header);
-			}
-		});
-	});
-
-	function toggleSection() {
-		const content = this.nextElementSibling;
-		const arrow = this.querySelector(".arrow");
-		const isOpen = content.style.maxHeight;
-
-		if (isOpen) {
-			content.style.maxHeight = null;
-			content.classList.remove("open");
-			arrow.classList.remove("rotate");
-			this.setAttribute("aria-expanded", "false");
-		} else {
-			content.style.maxHeight = content.scrollHeight + "px";
-			content.classList.add("open");
-			arrow.classList.add("rotate");
-			this.setAttribute("aria-expanded", "true");
-		}
-	}
-});*/
-
-
-	
 
 	// Initial render (all terms)
 	renderTerms();
