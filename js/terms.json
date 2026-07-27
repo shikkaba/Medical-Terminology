@@ -539,7 +539,7 @@
     "definition": "Joints with some movement.",
     "system": ["Musculoskeletal System"],
     "prefixId": "p_amphi",
-    "rootId": "r_athr",
+    "rootId": "r_arthr",
     "rootId2": "",
     "rootId3": "",
     "suffixId": "s_osis"
