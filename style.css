@@ -92,7 +92,7 @@ h2 {
   padding: 15px 15px 45px;
   background: var(--card-bg);
   width: 100%;
-  max-width: 1500px;
+  max-width: 1200px;
   display: flex;
   row-gap: 25px;
   flex-direction: row;
@@ -171,7 +171,7 @@ h2 {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
   width: 100%;
-  max-width: 1500px;
+  max-width: 1200px;
 }
 
 .card {
