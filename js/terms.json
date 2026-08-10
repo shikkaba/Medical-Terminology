@@ -1005,33 +1005,33 @@
     "word": "aphakia",
     "definition": "Condition of no lens.",
     "system": ["Sensory System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_a",
+    "rootId": "r_phak",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ia"
   },
   {
     "id": "t_aphasia",
     "word": "aphasia",
     "definition": "Loss of language function.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "s_a",
+    "rootId": "r_phas",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ia"
   },
   {
     "id": "t_aphonia",
     "word": "aphonia",
     "definition": "Condition of absence of voice.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_a",
+    "rootId": "r_phon",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ia"
   },
   {
     "id": "t_apical",
@@ -1500,10 +1500,10 @@
     "definition": "Pertaining to the ear.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_aur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_al"
   },
   {
     "id": "t_auscultation",
@@ -1822,10 +1822,10 @@
     "definition": "Pertaining to both eyes.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_bin",
+    "rootId2": "r_ocul",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_biopsy",
@@ -4122,10 +4122,10 @@
     "definition": "Double vision.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_dipl",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_opia"
   },
   {
     "id": "t_direct_pathway",
@@ -9344,10 +9344,10 @@
     "definition": "Softening of the spinal cord.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_myel",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_malacia"
   },
   {
     "id": "t_myelopoiesis",
@@ -9355,10 +9355,10 @@
     "definition": "Formation of bone marrow.",
     "system": ["Immune System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_myel",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_poiesis"
   },
   {
     "id": "r_myocardium",
@@ -10361,10 +10361,10 @@
     "definition": "Pain in the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_algia"
   },
   {
     "id": "t_ophthalmia_neonatorum",
@@ -10383,10 +10383,10 @@
     "definition": "Pertaining to the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ic"
   },
   {
     "id": "t_ophthalmologist",
@@ -10394,10 +10394,10 @@
     "definition": "Specialist of the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logist"
   },
   {
     "id": "t_ophthalmology",
@@ -10405,10 +10405,10 @@
     "definition": "Study of the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_logy"
   },
   {
     "id": "t_ophthalmopathy",
@@ -10416,10 +10416,10 @@
     "definition": "Disease of the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_pathy"
   },
   {
     "id": "t_ophthalmoplegia",
@@ -10427,10 +10427,10 @@
     "definition": "Paralysis of the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plegia"
   },
   {
     "id": "t_ophthalmoscope",
@@ -10438,10 +10438,10 @@
     "definition": "Instrument used to view the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_scope"
   },
   {
     "id": "t_ophthalmoscopy",
@@ -10449,10 +10449,10 @@
     "definition": "Process of viewing the eye.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ophthalm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_scopy"
   },
   {
     "id": "t_opsonization",
@@ -11720,10 +11720,10 @@
     "definition": "Sensitivity to light.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_phot",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_phobia"
   },
   {
     "id": "t_phrenospasm",
@@ -13095,10 +13095,10 @@
     "definition": "Tumor arising from a developing retinal cell.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_retin",
+    "rootId2": "r_blast",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oma"
   },
   {
     "id": "t_retinopathy",
@@ -15183,10 +15183,10 @@
     "definition": "Process of recording slices.",
     "system": ["General System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_tom",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_graphy"
   },
   {
     "id": "t_tonometer",
@@ -15194,10 +15194,10 @@
     "definition": "Instrument used to measure pressure (within the eye).",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ton",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_meter"
   },
   {
     "id": "t_tonometry",
@@ -15205,10 +15205,10 @@
     "definition": "Process of measuring pressure (within the eye).",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ton",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_metry"
   },
   {
     "id": "t_tonsillectomy",

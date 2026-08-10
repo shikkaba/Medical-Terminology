@@ -35,6 +35,8 @@
 	{ "id": "r_ather", "form": "ather/o", "meaning": "yellowish, fatty plaque" },
 	{ "id": "r_arthr", "form": "arthr/o", "meaning": "joint" },
 	{ "id": "r_aut", "form": "aut/o", "meaning": "self" },
+	{ "id": "r_aur", "form": "aur/o", "meaning": "ear" },
+	{ "id": "r_auri", "form": "aur/i", "meaning": "ear" },
 	{ "id": "r_azot", "form": "azot/o", "meaning": "urea, nitrogen" },
 	{ "id": "r_balan", "form": "balan/o", "meaning": "glans penis" },
 	{
@@ -76,6 +78,7 @@
 	{ "id": "r_colon", "form": "colon/o", "meaning": "colon" },
 	{ "id": "r_conjuntiv", "form": "conjuntiv/o", "meaning": "conjunctiva" },
 	{ "id": "r_cor", "form": "cor/o", "meaning": "pupil" },
+	{ "id": "r_core", "form": "core/o", "meaning": "pupil" },
 	{ "id": "r_coron", "form": "coron/o", "meaning": "crown or circle, heart" },
 	{ "id": "r_corne", "form": "corne/o", "meaning": "cornea" },
 	{ "id": "r_core", "form": "core/o", "meaning": "pupil" },
