@@ -6238,11 +6238,11 @@
     "word": "hemiplegia",
     "definition": "Paralysis that effects one side of the body.",
     "system": ["Nervous System"],
-    "prefixId": "",
+    "prefixId": "p_hemi",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_plegia"
   },
   {
     "id": "t_hemodialysis",
@@ -10050,7 +10050,7 @@
   {
     "id": "t_norepinephrine",
     "word": "norepinephrine",
-    "definition": "A natural chemical in the body that acts as both a stress hormone and neurotransmitter (a substance that sends signals between nerve cells). It’s released into the blood as a stress hormone when the brain perceives stress.",
+    "definition": "A natural chemical in the body that acts as both a stress hormone and neurotransmitter (a substance that sends signals between nerve cells). Itd��s released into the blood as a stress hormone when the brain perceives stress.",
     "system": ["Nervous System", "Endocrine System"],
     "prefixId": "",
     "rootId": "",
@@ -13422,10 +13422,10 @@
     "definition": "Abnormal condition of (lateral) curved spine.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_scoli",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_scrotum",
@@ -14032,10 +14032,10 @@
     "definition": "Abnormal condition of the vertebrae.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_spondyl",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_sprain",
@@ -14117,10 +14117,10 @@
     "definition": "Discharge of fat.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_steat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_rrhea"
   },
   {
     "id": "t_steatosis",
@@ -14128,10 +14128,10 @@
     "definition": "Abnormal condition of fat.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_steat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_osis"
   },
   {
     "id": "t_sterility",
@@ -14161,10 +14161,10 @@
     "definition": "Pertaining to the sternum and clavicle.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_stern",
+    "rootId2": "r_clavicul",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_ar"
   },
   {
     "id": "t_sternoid",
@@ -14172,10 +14172,10 @@
     "definition": "Resembling the sternum.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_stern",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": ""
+    "suffixId": "s_oid"
   },
   {
     "id": "t_stethoscope",
