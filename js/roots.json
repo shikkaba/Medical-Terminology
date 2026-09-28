@@ -39,6 +39,8 @@
 	{ "id": "r_auri", "form": "aur/i", "meaning": "ear" },
 	{ "id": "r_azot", "form": "azot/o", "meaning": "urea, nitrogen" },
 	{ "id": "r_balan", "form": "balan/o", "meaning": "glans penis" },
+	{ "id": "r_bil", "form": "bil/i", "meaning": "bile" },
+	{ "id": "r_bilirubin", "form": "bilirubin/o", "meaning": "bilirubin" },
 	{
 		"id": "r_blast",
 		"form": "blast/o",
@@ -267,6 +269,7 @@
 		"form": "par/o",
 		"meaning": "to bear, labor, childbirth, give birth to"
 	},
+	{ "id": "r_eritone", "form": "pariet/o", "meaning": "wall" },
 	{
 		"id": "r_part",
 		"form": "part/o",
@@ -1755,6 +1758,7 @@
 		"meaning": "labyrinth, inner ear"
 	},
 	{ "id": "r_lacrim", "form": "lacrim/o", "meaning": "tear, tear duct" },
+	{ "id": "r_lapar", "form": "lapar/o", "meaning": "abdominal wall" },
 	{ "id": "r_laryng", "form": "laryng/o", "meaning": "larynx" },
 	{ "id": "r_lact", "form": "lact/o", "meaning": "milk" },
 	{ "id": "r_laryng", "form": "laryng/o", "meaning": "larynx" },
@@ -2041,6 +2045,7 @@
 	{ "id": "r_cerebr", "form": "cerebr/o", "meaning": "cerebrum" },
 	{ "id": "r_cervic", "form": "cervic/o", "meaning": "cervix" },
 	{ "id": "r_cheil", "form": "cheil/o", "meaning": "lip" },
+	{ "id": "r_chlorhydr", "form": "chlorhydr/o", "meaning": "hydrochloric" },
 	{ "id": "r_cholangi", "form": "cholangi/o", "meaning": "bile duct" },
 	{ "id": "r_chole", "form": "chol/e", "meaning": "gall, bile" },
 	{ "id": "r_cholecyst", "form": "cholecyst/o", "meaning": "gallbladder" },
