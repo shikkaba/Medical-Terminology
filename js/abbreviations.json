@@ -1,0 +1,29 @@
+[
+	{ "id": "a_apr", "abbr": "APR", "meaning": "abdominoperineal resection" },
+	{ "id": "a_be", "abbr": "BE", "meaning": "barium enema" },
+	{ "id": "a_egd", "abbr": "EGD", "meaning": "esophagogastroduodenoscopy" },
+	{
+		"id": "a_ercp",
+		"abbr": "ERCP",
+		"meaning": "endoscopic retrograde cholangiopancreatography"
+	},
+	{ "id": "a_eus", "abbr": "EUS", "meaning": "endoscopic ultrasound" },
+	{ "id": "a_fobt", "abbr": "FOBT", "meaning": "fecal occult blood test" },
+	{
+		"id": "a_gerd",
+		"abbr": "GERD",
+		"meaning": "gastroesophageal reflux disease"
+	},
+	{ "id": "a_gi", "abbr": "GI", "meaning": "gastrointestinal" },
+	{ "id": "a_hpylori", "abbr": "H.pylori", "meaning": "Helicobacter pylori" },
+	{ "id": "a_ibs", "abbr": "IBS", "meaning": "irritable bowel syndrome" },
+	{ "id": "a_nv", "abbr": "N&V", "meaning": "nausea and vomiting" },
+	{
+		"id": "a_peg",
+		"abbr": "PEG",
+		"meaning": "percutaneous endoscopic gastrostomy"
+	},
+	{ "id": "a_uc", "abbr": "UC", "meaning": "ulcerative colitis" },
+	{ "id": "a_ugi", "abbr": "UGI", "meaning": "upper gastrointestinal" },
+	{ "id": "a_uppp", "abbr": "UPPP", "meaning": "uvulopalatopharyngoplasty" }
+]

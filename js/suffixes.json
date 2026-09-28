@@ -19,6 +19,7 @@
 	{ "id": "s_ar", "form": "-ar", "meaning": "pertaining to" },
 	{ "id": "s_arche", "form": "-arche", "meaning": "beginning, first" },
 	{ "id": "s_ary", "form": "-ary", "meaning": "pertaining to" },
+	{ "id": "s_ase", "form": "-ase", "meaning": "enzyme" },
 	{ "id": "s_asthenia", "form": "-asthenia", "meaning": "weakness" },
 	{ "id": "s_atic", "form": "-atic", "meaning": "pertaining to" },
 	{ "id": "s_atresia", "form": "-atresia", "meaning": "occlusion, closure" },
@@ -28,6 +29,11 @@
 		"id": "s_centesis",
 		"form": "-centesis",
 		"meaning": "surgical puncture to aspirate fluid"
+	},
+	{
+		"id": "s_chezia",
+		"form": "-chezia",
+		"meaning": "defecation, elimination of"
 	},
 	{ "id": "s_clasia", "form": "-clasia", "meaning": "break" },
 	{ "id": "s_clasis", "form": "-clasis", "meaning": "break" },
@@ -188,6 +194,11 @@
 		"meaning": "drooping, sagging, prolapse"
 	},
 	{ "id": "s_ptysis", "form": "-ptysis", "meaning": "spitting, coughing" },
+	{
+		"id": "s_prandial",
+		"form": "-prandial",
+		"meaning": "pertaining to a meal, eating"
+	},
 	{
 		"id": "s_rrhagia",
 		"form": "-rrhagia",
