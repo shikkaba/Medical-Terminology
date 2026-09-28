@@ -281,7 +281,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_adipocyte",
@@ -1429,7 +1429,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_aspermia",
@@ -3251,7 +3251,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cisterna_chyli",
@@ -4712,7 +4712,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_dyskinesia",
@@ -5071,6 +5071,30 @@
     "id": "t_elements",
     "word": "elements",
     "definition": "Unique pure substances.",
+    "system": ["General System"],
+    "prefixId": "",
+    "rootId": "",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "",
+    "constructed": false
+  },
+  {
+    "id": "t_emaciation",
+    "word": "emaciation",
+    "definition": "Abnormal thinness.",
+    "system": ["General System"],
+    "prefixId": "",
+    "rootId": "",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "",
+    "constructed": true
+  },
+  {
+    "id": "t_emesis",
+    "word": "emesis",
+    "definition": "Vomiting.",
     "system": ["General System"],
     "prefixId": "",
     "rootId": "",
@@ -6054,7 +6078,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_foramen_magnum",
@@ -6916,7 +6940,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_hemostasis",
@@ -9636,7 +9660,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_memory_t_cells",
@@ -10453,7 +10477,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_nebulizer",
@@ -12125,7 +12149,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_palpitations",
@@ -13158,7 +13182,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_polypectomy",
@@ -14251,7 +14275,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_renogram",
@@ -15567,7 +15591,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_stomatitis",
