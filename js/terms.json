@@ -115,7 +115,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_acoustic_neuroma",
@@ -139,7 +139,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_acromegaly",
@@ -161,7 +161,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_acquired_immunodeficiency_syndrome",
@@ -330,13 +330,13 @@
   {
     "id": "t_adrenocorticohyperplasia",
     "word": "adrenocorticohyperplasia",
-    "definition": "Excessive development of the adrenal cortex.",
+    "definition": "(adrenocortical hyperplasia) Excessive development of the adrenal cortex.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_adren",
+    "rootId2": "r_cortic",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_plasia",
     "constructed": true
   },
   {
@@ -405,7 +405,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_albuminuria",
@@ -427,7 +427,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_allergist",
@@ -449,7 +449,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_alpha_fetoprotein_test",
@@ -512,11 +512,11 @@
     "word": "amenorrhea",
     "definition": "Absences of the flow of menses, no period; one of the first signs of pregnancy or menopause.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_a",
+    "rootId": "r_men",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhea",
     "constructed": true
   },
   {
@@ -525,10 +525,10 @@
     "definition": "Surgical puncture to remove a small amount of amniotic fluid through a needle via the abdomen. The fluid is tested for any potential fetal abnormalities.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_amni",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_centesis",
     "constructed": true
   },
   {
@@ -537,10 +537,10 @@
     "definition": "Pertaining to the amnion and chorion.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_amni",
+    "rootId2": "r_chori",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -559,10 +559,10 @@
     "definition": "Discharge (escape) of amniotic fluid.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_amni",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhea",
     "constructed": true
   },
   {
@@ -571,10 +571,10 @@
     "definition": "Rupture of the amnion.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_amnion",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhexis",
     "constructed": true
   },
   {
@@ -583,10 +583,10 @@
     "definition": "Incision into the amnion to induce labor.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_amni",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_tomy",
     "constructed": true
   },
   {
@@ -1838,6 +1838,8 @@
     "system": ["Urinary System"],
     "prefixId": "",
     "rootId": "r_azot",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_emia",
     "constructed": true
   },
@@ -1894,6 +1896,8 @@
     "system": ["Reproductive System"],
     "prefixId": "",
     "rootId": "r_balan",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_plasty",
     "constructed": true
   },
@@ -1904,6 +1908,8 @@
     "system": ["Reproductive System"],
     "prefixId": "",
     "rootId": "r_balan",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_rrhea",
     "constructed": true
   },
@@ -2359,7 +2365,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cancer",
@@ -2371,7 +2377,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_capillary",
@@ -2407,7 +2413,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_carcinogenic",
@@ -2548,7 +2554,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_carotid_artery",
@@ -2596,7 +2602,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cauda_equina",
@@ -2620,7 +2626,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cauterize",
@@ -2632,7 +2638,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cd4_t_cells",
@@ -2664,10 +2670,10 @@
     "definition": "Incision into the abdominal cavity.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_celi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_tomy",
     "constructed": true
   },
   {
@@ -2726,7 +2732,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cephalgia",
@@ -2734,10 +2740,10 @@
     "definition": "Pain in the head (headache).",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cephal",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_algia",
     "constructed": true
   },
   {
@@ -2786,7 +2792,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cerebellitis",
@@ -2922,7 +2928,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cessation",
@@ -2934,7 +2940,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cheilorrhaphy",
@@ -2942,10 +2948,10 @@
     "definition": "Suturing of the lip.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cheil",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhaphy",
     "constructed": true
   },
   {
@@ -2958,7 +2964,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_chemoreceptors",
@@ -2970,7 +2976,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_chemotaxis",
@@ -2982,7 +2988,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_chlamydia",
@@ -2994,7 +3000,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cholangiogram",
@@ -3057,10 +3063,10 @@
     "definition": "Condition of stones in the common bile duct.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": "",
+    "rootId": "r_chole",
+    "rootId2": "r_doch",
+    "rootId3": "r_lith",
+    "suffixId": "s_iasis",
     "constructed": true
   },
   {
@@ -3069,10 +3075,10 @@
     "definition": "Incision into the common bile duct to remove stones.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": "",
+    "rootId": "r_chole",
+    "rootId2": "r_doch",
+    "rootId3": "r_lith",
+    "suffixId": "s_otomy",
     "constructed": true
   },
   {
@@ -3139,10 +3145,10 @@
     "definition": "Cancerous tumor of the chorion.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_chori",
+    "rootId2": "r_carcin",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_oma",
     "constructed": true
   },
   {
@@ -6459,9 +6465,9 @@
     "system": ["Nervous System"],
     "prefixId": "",
     "rootId": "r_gli",
-    "rootId2": "",
+    "rootId2": "r_blast",
     "rootId3": "",
-    "suffixId": "s_blastoma",
+    "suffixId": "s_oma",
     "constructed": true
   },
   {
@@ -6470,10 +6476,10 @@
     "definition": "Glial cell.",
     "system": ["Nervous System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gli",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_cyte",
     "constructed": true
   },
   {
@@ -6494,8 +6500,8 @@
     "definition": "Inflammation of the gomeruli of the kidney.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_glomerul",
+    "rootId2": "r_nephr",
     "rootId3": "",
     "suffixId": "",
     "constructed": true
@@ -6552,10 +6558,10 @@
     "definition": "Sugar in the blood.",
     "system": ["Endocrine System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_glyc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -6564,10 +6570,10 @@
     "definition": "Sugar (glucose) in the urine.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_glycos",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_uria",
     "constructed": true
   },
   {
@@ -6592,18 +6598,18 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_gonorrhea",
     "word": "gonorrhea",
     "definition": "A sexually transmitted disease involving inflammatory discharge from the urethra or vagina.",
     "system": ["Reproductive System"],
-    "prefixId": "",
+    "prefixId": "p_gono",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhea",
     "constructed": true
   },
   {
@@ -6672,10 +6678,10 @@
     "definition": "The study of the female reproductive system.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gynec",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ology",
     "constructed": true
   },
   {
@@ -6684,10 +6690,10 @@
     "definition": "Pertaining to the women.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gyn",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_pathic",
     "constructed": true
   },
   {
@@ -6739,6 +6745,18 @@
     "constructed": false
   },
   {
+    "id": "t_hematemesis",
+    "word": "hematemesis",
+    "definition": "Vomiting of blood.",
+    "system": ["Digestive System"],
+    "prefixId": "",
+    "rootId": "r_hemat",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "s_emesis",
+    "constructed": true
+  },
+  {
     "id": "t_hematocrit",
     "word": "hematocrit",
     "definition": "A lab test which measures the percentage red blood cells in a sample of whole blood. It represents how much of the person’s blood is made up of red blood cells, by volume.",
@@ -6748,7 +6766,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_hematologist",
@@ -6756,10 +6774,10 @@
     "definition": "Physician who specializes and treats blood disorders.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_hemat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ologist",
     "constructed": true
   },
   {
@@ -6768,10 +6786,10 @@
     "definition": "Study of blood.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_hemat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ology",
     "constructed": true
   },
   {
@@ -6780,10 +6798,10 @@
     "definition": "Tumor composed of blood.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_hemat",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_oma",
     "constructed": true
   },
   {
@@ -7267,11 +7285,11 @@
     "word": "hypercalcemia",
     "definition": "Excessive calcium in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_calc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7279,11 +7297,11 @@
     "word": "hypercapnia",
     "definition": "Condition of excessive (greater than normal levels) carbon dioxide (in the blood).",
     "system": ["Respiratory System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_capn",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -7296,18 +7314,18 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_hyperemesis",
     "word": "hyperemesis",
     "definition": "Excessive vomiting during pregnancy.",
     "system": ["Reproductive System"],
-    "prefixId": "",
+    "prefixId": "p_hyper",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emesis",
     "constructed": true
   },
   {
@@ -7339,11 +7357,11 @@
     "word": "hyperglycemia",
     "definition": "Excessive sugar in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_glyc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7351,11 +7369,11 @@
     "word": "hyperkalemia",
     "definition": "Excessive potassium in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_kal",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7363,11 +7381,11 @@
     "word": "hyperkinesia",
     "definition": "Condition of excessive movement.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_kinesi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -7375,11 +7393,11 @@
     "word": "hyperlipidemia",
     "definition": "Excessive fat in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_lip",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7387,11 +7405,11 @@
     "word": "hyperopia",
     "definition": "Farsightedness; near objects look blurred but distant objects are more clearly visible.",
     "system": ["Sensory System"],
-    "prefixId": "",
+    "prefixId": "p_hyper",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_opia",
     "constructed": true
   },
   {
@@ -7399,11 +7417,11 @@
     "word": "hyperpnea",
     "definition": "Forced breathing or breathing that is excessive.",
     "system": ["Respiratory System"],
-    "prefixId": "",
+    "prefixId": "p_hyper",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_pnea",
     "constructed": true
   },
   {
@@ -7423,11 +7441,11 @@
     "word": "hypertension",
     "definition": "High blood pressure.",
     "system": ["Cardiovascular System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_tens",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ion",
     "constructed": true
   },
   {
@@ -7459,11 +7477,11 @@
     "word": "hypocalcemia",
     "definition": "Deficient calcium in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_calc",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7471,11 +7489,11 @@
     "word": "hypocapnia",
     "definition": "Condition of deficient (low levels) of carbon dioxide (in the blood).",
     "system": ["Respiratory System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_capn",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -7503,8 +7521,8 @@
     "word": "hypoglycemia",
     "definition": "Deficient sugar in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_glyc",
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
@@ -7515,11 +7533,11 @@
     "word": "hypokalemia",
     "definition": "Deficient potassium in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_kal",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7527,11 +7545,11 @@
     "word": "hyponatremia",
     "definition": "Deficient sodium in the blood.",
     "system": ["Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_natr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_emia",
     "constructed": true
   },
   {
@@ -7563,11 +7581,11 @@
     "word": "hypothalamus",
     "definition": "Major region of the diencephalon that is responsible for coordinating autonomic and endocrine control of homeostasis.",
     "system": ["Nervous System", "Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_thalam",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_us",
     "constructed": true
   },
   {
@@ -7575,11 +7593,11 @@
     "word": "hypothalmic",
     "definition": "A region of the forebrain below the thalamus.",
     "system": ["Nervous System", "Endocrine System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hypo",
+    "rootId": "r_thalam",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ic",
     "constructed": true
   },
   {
@@ -16827,11 +16845,11 @@
     "word": "transurethral",
     "definition": "Pertaining to through the urethra.",
     "system": ["Urinary System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_trans",
+    "rootId": "r_urethr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {

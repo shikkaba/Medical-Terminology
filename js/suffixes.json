@@ -63,6 +63,11 @@
 		"meaning": "excision, surgical removal"
 	},
 	{ "id": "s_edema", "form": "-edema", "meaning": "swelling" },
+	{
+		"id": "s_emesis",
+		"form": "-emesis",
+		"meaning": "vomiting"
+	},
 	{ "id": "s_emia", "form": "-emia", "meaning": "condition of blood" },
 	{ "id": "s_esis", "form": "-esis", "meaning": "condition" },
 	{ "id": "s_ferous", "form": "-ferous", "meaning": "pertaining to" },

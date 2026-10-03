@@ -1,6 +1,15 @@
 [
 	{ "id": "a_apr", "abbr": "APR", "meaning": "abdominoperineal resection" },
+	{ "id": "a_arf", "abbr": "ARF", "meaning": "acute renal failure" },
 	{ "id": "a_be", "abbr": "BE", "meaning": "barium enema" },
+	{ "id": "a_bun", "abbr": "BUN", "meaning": "blood urea nitrogen" },
+	{ "id": "a_cath", "abbr": "cath", "meaning": "catheter" },
+	{ "id": "a_cck", "abbr": "CCK", "meaning": "cholecystokinin" },
+	{ "id": "a_cdiff", "abbr": "C.diff", "meaning": "Clostridium difficile" },
+	{ "id": "a_chf", "abbr": "CHF", "meaning": "congestive heart failure" },
+	{ "id": "a_ckd", "abbr": "CKD", "meaning": "chronic kidney disease" },
+	{ "id": "a_ckd5d", "abbr": "(CKD) stage 5 dialysis dependent"
+	},
 	{ "id": "a_egd", "abbr": "EGD", "meaning": "esophagogastroduodenoscopy" },
 	{
 		"id": "a_ercp",
@@ -8,6 +17,10 @@
 		"meaning": "endoscopic retrograde cholangiopancreatography"
 	},
 	{ "id": "a_eus", "abbr": "EUS", "meaning": "endoscopic ultrasound" },
+	{
+		"id": "a_esrd", "abbr": "ESRD", "meaning": "end-stage renal disease"
+	},
+	{ "id": "a_eswl", "abbr": "ESWL", "meaning": "extracorporeal shock wave lithotripsy" },
 	{ "id": "a_fobt", "abbr": "FOBT", "meaning": "fecal occult blood test" },
 	{
 		"id": "a_gerd",
@@ -15,14 +28,25 @@
 		"meaning": "gastroesophageal reflux disease"
 	},
 	{ "id": "a_gi", "abbr": "GI", "meaning": "gastrointestinal" },
+	{ "id": "a_hd", "abbr": "HD", "meaning": "hemodialysis" },
 	{ "id": "a_hpylori", "abbr": "H.pylori", "meaning": "Helicobacter pylori" },
 	{ "id": "a_ibs", "abbr": "IBS", "meaning": "irritable bowel syndrome" },
 	{ "id": "a_nv", "abbr": "N&V", "meaning": "nausea and vomiting" },
+	{ "id": "a_oab", "abbr": "OAB", "meaning": "overactive bladder" },
+	{ "id": "a_pci", "abbr": "PCI", "meaning": "percutaneous coronary intervention" },
 	{
 		"id": "a_peg",
 		"abbr": "PEG",
 		"meaning": "percutaneous endoscopic gastrostomy"
 	},
+	{ "id": "a_sg", "abbr": "SG", "meaning": "specific gravity" },
+	{ "id": "a_ua", "abbr": "UA", "meaning": "urinalysis" },
+	{ "id": "a_uti", "abbr": "UTI", "meaning": "urinary tract infection" },
+	{ "id": "a_vc", "abbr": "VC", "meaning": "vital capacity" },
+	{ "id": "a_vcug", "abbr": "VCUG", "meaning": "voiding cystourethrogram" },
+	{ "id": "a_vitd", "abbr": "vit D", "meaning": "vitamin D" },
+	{ "id": "a_wbc", "abbr": "WBC", "meaning": "white blood cell count" },
+	{ "id": "a_wt", "abbr": "wt", "meaning": "weight" },
 	{ "id": "a_uc", "abbr": "UC", "meaning": "ulcerative colitis" },
 	{ "id": "a_ugi", "abbr": "UGI", "meaning": "upper gastrointestinal" },
 	{ "id": "a_uppp", "abbr": "UPPP", "meaning": "uvulopalatopharyngoplasty" }
