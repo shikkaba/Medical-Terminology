@@ -32,6 +32,9 @@
 	{ "id": "p_epi", "form": "epi-", "meaning": "upon, on, over" },
 	{ "id": "p_eu", "form": "eu-", "meaning": "good, normal" },
 	{ "id": "p_ex", "form": "ex-", "meaning": "outward" },
+	{ "id": "p_gono", "form": "gono-", "meaning": "seed, semen" },
+	{ "id": "p_hetero", "form": "hetero-", "meaning": "different" },
+	{ "id": "p_homo", "form": "homo-", "meaning": "same" },
 	{ "id": "p_hemi", "form": "hemi-", "meaning": "half" },
 	{ "id": "p_hyper", "form": "hyper-", "meaning": "above, excessive" },
 	{
