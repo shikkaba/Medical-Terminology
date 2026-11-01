@@ -418,16 +418,16 @@
     "constructed": true
   },
   {
-    "id": "t_allergens",
-    "word": "allergens",
-    "definition": "Antigens that evoke type 1 hypersensitivity (allergy) responses.",
+    "id": "t_allergen",
+    "word": "allergen",
+    "definition": "Antigen that evokes a type 1 hypersensitivity (allergy) response.",
     "system": ["Immune System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_allerg",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
-    "constructed": false
+    "suffixId": "s_gen",
+    "constructed": true
   },
   {
     "id": "t_allergist",
@@ -445,11 +445,11 @@
     "definition": "Inflammatory response due to a hypersensitivity to a substance.",
     "system": ["Immune System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_allerg",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
-    "constructed": false
+    "suffixId": "s_y",
+    "constructed": true
   },
   {
     "id": "t_alpha_fetoprotein_test",
@@ -7116,7 +7116,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_homeostasis",
@@ -9070,10 +9070,10 @@
     "definition": "Surgical crushing of stone(s).",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_lith",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_tripsy",
     "constructed": true
   },
   {
@@ -9148,10 +9148,10 @@
     "definition": "Pertaining to the lumbar region of the spine.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_lumb",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ar",
     "constructed": true
   },
   {
@@ -9172,10 +9172,10 @@
     "definition": "Pertaining to the lumbar region of the spine and ribs.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_lumb",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_costal",
     "constructed": true
   },
   {
@@ -9184,10 +9184,10 @@
     "definition": "Pertaining to the lumbar region of the spine and sacrum.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_lumb",
+    "rootId2": "r_sacr",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -14608,10 +14608,10 @@
     "definition": "Pertaining to the sacrum.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_sacr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {

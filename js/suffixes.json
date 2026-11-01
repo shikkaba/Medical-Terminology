@@ -274,5 +274,6 @@
 	{ "id": "s_um", "form": "-um", "meaning": "no meaning, noun ending" },
 	{ "id": "s_uria", "form": "-uria", "meaning": "urine, urination" },
 	{ "id": "s_us", "form": "-us", "meaning": "no meaning, noun ending" },
-	{ "id": "s_version", "form": "-version", "meaning": "turned, turning" }
+	{ "id": "s_version", "form": "-version", "meaning": "turned, turning" },
+	{ "id": "s_y", "form": "-y", "meaning": "condition, process" }
 ]
