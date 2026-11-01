@@ -55,7 +55,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_abrasion",
@@ -690,11 +690,11 @@
     "word": "anesthesia",
     "definition": "Condition/loss of feeling or sensation.",
     "system": ["General System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_an",
+    "rootId": "r_esthesi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -727,10 +727,10 @@
     "definition": "An x-ray of the coronary blood vessels using a special catheter and an injection of dye.",
     "system": ["Cardiovascular System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_angi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_gram",
     "constructed": true
   },
   {
@@ -810,11 +810,11 @@
     "word": "anisocoria",
     "definition": "Condition of absence of equal pupil (size).",
     "system": ["Sensory System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_aniso",
+    "rootId": "r_cor",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -836,6 +836,8 @@
     "system": ["Digestive System"],
     "prefixId": "",
     "rootId": "r_an",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_plasty",
     "constructed": true
   },
@@ -844,11 +846,11 @@
     "word": "anorchism",
     "definition": "State of absence of testis.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_an",
+    "rootId": "r_orch",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ism",
     "constructed": true
   },
   {
@@ -856,11 +858,11 @@
     "word": "anosmia",
     "definition": "Without smell/inability to smell.",
     "system": ["Sensory System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_an",
+    "rootId": "r_osm",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -870,6 +872,8 @@
     "system": ["Respiratory System"],
     "prefixId": "p_an",
     "rootId": "r_ox",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_ia",
     "constructed": true
   },
@@ -943,7 +947,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antiandrogens",
@@ -955,7 +959,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antibiotics",
@@ -979,7 +983,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antibody",
@@ -991,7 +995,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antigen",
@@ -1000,8 +1004,10 @@
     "system": ["Immune System"],
     "prefixId": "",
     "rootId": "r_anti",
+    "rootId2": "",
+    "rootId3": "",
     "suffixId": "s_gen",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antigens",
@@ -1013,7 +1019,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antihypertensives",
@@ -1025,7 +1031,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antiretrovirals",
@@ -1037,7 +1043,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_antrectomy",
@@ -1045,10 +1051,10 @@
     "definition": "Excision of the antrum (of the stomach).",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_antr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ectomy",
     "constructed": true
   },
   {
@@ -1057,10 +1063,10 @@
     "definition": "Absence of urine.",
     "system": ["Urinary System"],
     "prefixId": "p_an",
-    "rootId": "",
+    "rootId": "r_ur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "s_uria",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -1116,7 +1122,7 @@
     "word": "aphasia",
     "definition": "Loss of language function.",
     "system": ["Nervous System"],
-    "prefixId": "s_a",
+    "prefixId": "p_a",
     "rootId": "r_phas",
     "rootId2": "",
     "rootId3": "",
@@ -1270,7 +1276,7 @@
     "word": "arteriogram",
     "definition": "Radiographic image of an artery.",
     "system": ["Cardiovascular System"],
-    "prefixId": "r_arteri",
+    "prefixId": "p_arteri",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
@@ -1936,6 +1942,18 @@
     "rootId3": "",
     "suffixId": "",
     "constructed": false
+  },
+  {
+    "id": "t_bartholinitis",
+    "word": "bartholinitis",
+    "definition": "Inflammation of the Bartholin's glands.",
+    "system": ["Reproductive System"],
+    "prefixId": "",
+    "rootId": "r_bartholin",
+    "rootId2": "",
+    "rootId3": "",
+    "suffixId": "s_itis",
+    "constructed": true
   },
   {
     "id": "t_basal_cell_carcinoma",
@@ -3233,7 +3251,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_circumcision",
@@ -3253,11 +3271,11 @@
     "definition": "Chronic degenerative disease of the liver.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cirrh",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
-    "constructed": false
+    "suffixId": "s_osis",
+    "constructed": true
   },
   {
     "id": "t_cisterna_chyli",
@@ -3293,7 +3311,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_cochlea",
@@ -3313,10 +3331,10 @@
     "definition": "Pertaining to the cochlea.",
     "system": ["Sensory System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_cochle",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ar",
     "constructed": true
   },
   {
@@ -3423,7 +3441,7 @@
     "definition": "Surgical closure of the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_colp",
     "rootId2": "",
     "rootId3": "",
     "suffixId": "s_cleisis",
@@ -3435,8 +3453,8 @@
     "definition": "Suturing of the vagina and the perineum.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_colp",
+    "rootId2": "r_perine",
     "rootId3": "",
     "suffixId": "",
     "constructed": true
@@ -3447,10 +3465,10 @@
     "definition": "Surgical repair of the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_colp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_plasty",
     "constructed": true
   },
   {
@@ -3459,10 +3477,10 @@
     "definition": "Suturing of (a tear in) the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_colp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_rrhaphy",
     "constructed": true
   },
   {
@@ -3471,10 +3489,10 @@
     "definition": "Instrument used to view the vulva.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_colp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_scope",
     "constructed": true
   },
   {
@@ -3483,10 +3501,10 @@
     "definition": "Process of viewing the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_colp",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_scopy",
     "constructed": true
   },
   {
@@ -3535,7 +3553,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_computerized_tomography",
@@ -3629,7 +3647,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_contusion",
@@ -6386,7 +6404,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_gestational_diabetes",
@@ -6418,10 +6436,10 @@
     "definition": "Excision of the gums.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gingiv",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ectomy",
     "constructed": true
   },
   {
@@ -6630,10 +6648,10 @@
     "definition": "Pregnant (woman) Note, that this is referring to a woman who is or has been pregnant regardless of outcome.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_gravid",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -7345,11 +7363,11 @@
     "word": "hyperesthesia",
     "definition": "Excessive sensitivity to stimuli.",
     "system": ["Sensory System", "Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_hyper",
+    "rootId": "r_esthesi",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -10141,11 +10159,11 @@
     "word": "multigravida",
     "definition": "Many pregnancies A woman who has been pregnant two or more times regardless of outcome.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_multi",
+    "rootId": "r_gravid",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -11072,11 +11090,11 @@
     "word": "nulligravida",
     "definition": "A woman who has never been pregnant.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_nulli",
+    "rootId": "r_gravid",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -11084,11 +11102,11 @@
     "word": "nullipara",
     "definition": "No pregnancies a woman who has never been pregnant.",
     "system": ["Reproductive System"],
-    "prefixId": "",
+    "prefixId": "p_nulli",
     "rootId": "",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -11109,10 +11127,10 @@
     "definition": "The person who specializes in the study of obstetrics and gynecology and are referred to as OB/GYN Obstetrics and Gynecology.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_obstetr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ician",
     "constructed": true
   },
   {
@@ -11121,10 +11139,10 @@
     "definition": "Medical specialty dealing with pregnancy, childbirth, and puerperium.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_obstetr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ics",
     "constructed": true
   },
   {
@@ -12415,7 +12433,7 @@
     "definition": "Pertaining to pelvis, pelvic bone.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "r_pelvi",
+    "rootId": "r_pelv",
     "suffixId": "s_ic",
     "constructed": false
   },
@@ -12449,7 +12467,7 @@
     "definition": "Pertaining to the pelvis and sacrum.",
     "system": ["Musculoskeletal System"],
     "prefixId": "",
-    "rootId": "r_pelvi",
+    "rootId": "r_pelv",
     "rootId2": "r_sacr",
     "suffixId": "s_al",
     "constructed": true
@@ -12460,7 +12478,7 @@
     "definition": "Pertaining to visual examination of the pelvic cavity.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "r_pelvi",
+    "rootId": "r_pelv",
     "suffixId": "s_scopic",
     "constructed": false
   },
@@ -12470,7 +12488,7 @@
     "definition": "Visual examination of the pelvic cavity.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "r_pelvi",
+    "rootId": "r_pelv",
     "suffixId": "s_scopy",
     "constructed": true
   },
@@ -13325,11 +13343,11 @@
     "word": "preeclampsia",
     "definition": "The abnormal condition in pregnancy where the patient experiences hypertension, edema and proteinuria.",
     "system": ["Reproductive System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "s_pre",
+    "rootId": "r_eclamps",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ia",
     "constructed": true
   },
   {
@@ -13434,10 +13452,10 @@
     "definition": "First pregnancy.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_primi",
+    "rootId2": "r_gravid",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -13446,10 +13464,10 @@
     "definition": "First birth.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_primi",
+    "rootId2": "r_par",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -14058,10 +14076,10 @@
     "definition": "Surgical repair of the renal pelvis.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_pyel",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_plasty",
     "constructed": true
   },
   {
@@ -16990,10 +17008,10 @@
     "definition": "Pertaining to the nail.",
     "system": ["Integumentary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ungu",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -17001,11 +17019,11 @@
     "word": "unilateral",
     "definition": "Pertaining to one side.",
     "system": ["General System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_uni",
+    "rootId": "r_later",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -17013,11 +17031,11 @@
     "word": "unipolar",
     "definition": "Shape of a neuron which has only one process that includes both the axon and dendrite.",
     "system": ["Nervous System"],
-    "prefixId": "",
-    "rootId": "",
+    "prefixId": "p_uni",
+    "rootId": "r_pol",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ar",
     "constructed": true
   },
   {
@@ -17038,10 +17056,10 @@
     "definition": "Excision of the ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ureter",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ectomy",
     "constructed": true
   },
   {
@@ -17050,10 +17068,10 @@
     "definition": "Inflammation of the ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ureter",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {
@@ -17062,10 +17080,10 @@
     "definition": "Protrusion of a ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ureter",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_cele",
     "constructed": true
   },
   {
@@ -17074,10 +17092,10 @@
     "definition": "Condition of stone(s) in the ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_ureter",
+    "rootId2": "r_lith",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_iasis",
     "constructed": true
   },
   {
@@ -17086,10 +17104,10 @@
     "definition": "Visual examination of the ureter(s).",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ureter",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_scopy",
     "constructed": true
   },
   {
@@ -17098,10 +17116,10 @@
     "definition": "Creation of an artificial opening into the ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ureter",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_stomy",
     "constructed": true
   },
   {
@@ -17110,10 +17128,10 @@
     "definition": "Narrowing of the ureter.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_ureter",
+    "rootId2": "r_sten",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_osis",
     "constructed": true
   },
   {
@@ -17122,10 +17140,10 @@
     "definition": "Inflammation of the urethra.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_urethr",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {
@@ -17134,10 +17152,10 @@
     "definition": "Inflammation of the urethra and the bladder.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_urethr",
+    "rootId2": "r_cyst",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {
@@ -17146,10 +17164,10 @@
     "definition": "Receptacle for urine.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_urin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -17158,10 +17176,10 @@
     "definition": "Pertaining to urine.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_urin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ary",
     "constructed": true
   },
   {
@@ -17170,10 +17188,10 @@
     "definition": "Radiographic image of the urinary tract.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_gram",
     "constructed": true
   },
   {
@@ -17182,10 +17200,10 @@
     "definition": "Physician who studies and treats diseases of the urinary tract.",
     "system": ["Urinary System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_ur",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_logist",
     "constructed": true
   },
   {
@@ -17230,10 +17248,10 @@
     "definition": "The uvula is a small bulbous, teardrop-shaped structure located at the apex of the soft palate.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_uvul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -17242,10 +17260,10 @@
     "definition": "Excision of the uvula.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_uvul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_ectomy",
     "constructed": true
   },
   {
@@ -17254,10 +17272,10 @@
     "definition": "Inflammation of the uvula.",
     "system": ["Digestive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_uvul",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {
@@ -17266,10 +17284,10 @@
     "definition": "Surgical repair of the uvula, palate, and pharynx.",
     "system": ["Digestive System", "Respiratory System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
-    "rootId3": "",
-    "suffixId": "",
+    "rootId": "r_uvul",
+    "rootId2": "r_palat",
+    "rootId3": "r_pharyng",
+    "suffixId": "s_plasty",
     "constructed": true
   },
   {
@@ -17282,7 +17300,7 @@
     "rootId2": "",
     "rootId3": "",
     "suffixId": "",
-    "constructed": true
+    "constructed": false
   },
   {
     "id": "t_vagina",
@@ -17290,10 +17308,10 @@
     "definition": "A muscular canal approximately 10 cm long that is the entrance to the reproductive tract; it also serves as the exit from the uterus during menses and childbirth.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vagin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_a",
     "constructed": true
   },
   {
@@ -17302,10 +17320,10 @@
     "definition": "Pertaining to the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vagin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -17338,10 +17356,10 @@
     "definition": "Inflammation of the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vagin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {
@@ -17350,10 +17368,10 @@
     "definition": "Abnormal condition of the vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
+    "rootId": "r_vagin",
     "rootId2": "",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_osis",
     "constructed": true
   },
   {
@@ -17746,10 +17764,10 @@
     "definition": "Pertaining to the vulva and vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_vulv",
+    "rootId2": "r_vagin",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_al",
     "constructed": true
   },
   {
@@ -17758,10 +17776,10 @@
     "definition": "Inflammation of the vulva and vagina.",
     "system": ["Reproductive System"],
     "prefixId": "",
-    "rootId": "",
-    "rootId2": "",
+    "rootId": "r_vulv",
+    "rootId2": "r_vagin",
     "rootId3": "",
-    "suffixId": "",
+    "suffixId": "s_itis",
     "constructed": true
   },
   {

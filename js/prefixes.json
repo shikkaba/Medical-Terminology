@@ -11,6 +11,7 @@
 	{ "id": "p_amphi", "form": "amphi-", "meaning": "both, on both sides" },
 	{ "id": "p_an", "form": "an-", "meaning": "absence of, without, no, not" },
 	{ "id": "p_ana", "form": "ana-", "meaning": "up, apart, upward, backward" },
+	{ "id": "p_aniso", "form": "aniso-", "meaning": "unequal" },
 	{ "id": "p_ante", "form": "ante-", "meaning": "before" },
 	{ "id": "p_apo", "form": "apo-", "meaning": "away from" },
 	{ "id": "p_bi", "form": "bi-", "meaning": "two, both" },
@@ -42,6 +43,7 @@
 		"form": "hypo-",
 		"meaning": "deficient, below, under, incomplete"
 	},
+	{ "id": "p_in", "form": "in-", "meaning": "in, into" },
 	{ "id": "p_inter", "form": "inter-", "meaning": "between" },
 	{ "id": "p_intra", "form": "intra-", "meaning": "within, in" },
 	{ "id": "p_meta", "form": "meta-", "meaning": "change, beyond, after" },
@@ -61,6 +63,7 @@
 	{ "id": "p_poly", "form": "poly-", "meaning": "many, much, excessive" },
 	{ "id": "p_post", "form": "post-", "meaning": "after" },
 	{ "id": "p_pre", "form": "pre-", "meaning": "before" },
+	{ "id": "p_primi", "form": "primi-", "meaning": "first" },
 	{ "id": "p_pro", "form": "pro-", "meaning": "before" },
 	{ "id": "p_retro", "form": "retro-", "meaning": "backward, behind" },
 	{ "id": "p_sub", "form": "sub-", "meaning": "under, below" },

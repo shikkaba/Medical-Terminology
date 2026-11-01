@@ -95,6 +95,7 @@
 		"form": "-graphy",
 		"meaning": "process of recording, radiographic imaging"
 	},
+	{ "id": "s_gravida", "form": "-gravida", "meaning": "pregnant woman" },
 	{
 		"id": "s_ia",
 		"form": "-ia",
@@ -108,6 +109,8 @@
 	},
 	{ "id": "s_iatry", "form": "-iatry", "meaning": "specialty, treatment" },
 	{ "id": "s_ic", "form": "-ic", "meaning": "pertaining to" },
+	{ "id": "s_ician", "form": "-ician", "meaning": "specialist, physician who treats" },
+	{ "id": "s_ics", "form": "-ics", "meaning": "medical specialty" },
 	{ "id": "s_ictal", "form": "-ictal", "meaning": "seizure, attack" },
 	{ "id": "s_ile", "form": "-ile", "meaning": "pertaining to" },
 	{ "id": "s_ion", "form": "-ion", "meaning": "process" },
@@ -254,7 +257,7 @@
 	{
 		"id": "s_stomy",
 		"form": "-stomy",
-		"meaning": "creation of an artificial opening"
+		"meaning": "surgical creation of an opening, artificial mouth"
 	},
 	{ "id": "s_thorax", "form": "-thorax", "meaning": "chest, chest cavity" },
 	{ "id": "s_thymia", "form": "-thymia", "meaning": "condition of the mind" },
